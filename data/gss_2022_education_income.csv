@@ -1,0 +1,1926 @@
+respondent_id,age,years_education,highest_degree,bachelors_or_more,annual_family_income,employment_status,sex,race
+3,57.0,12.0,high school,0.0,28485.0,working full time,female,white
+6,27.0,12.0,high school,0.0,34815.0,working full time,male,white
+8,47.0,16.0,graduate,1.0,158424.85359,working full time,male,white
+9,31.0,12.0,high school,0.0,15033.75,working full time,female,white
+12,25.0,16.0,bachelor's,1.0,20572.5,working part time,female,white
+13,35.0,12.0,high school,0.0,88620.0,working full time,female,white
+14,36.0,12.0,high school,0.0,1266.0,working part time,female,white
+19,35.0,11.0,less than high school,0.0,7121.25,working part time,female,black
+24,60.0,14.0,associate/junior college,0.0,52222.5,working full time,female,black
+25,28.0,13.0,high school,0.0,316.5,working part time,male,white
+27,59.0,12.0,high school,0.0,158424.85359,working full time,male,other
+29,36.0,16.0,bachelor's,1.0,34815.0,working full time,male,other
+36,46.0,14.0,associate/junior college,0.0,28485.0,working part time,male,white
+39,38.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+40,64.0,13.0,high school,0.0,75960.0,working full time,male,white
+41,49.0,16.0,bachelor's,1.0,101280.0,working full time,female,white
+44,30.0,18.0,graduate,1.0,,working full time,male,black
+46,50.0,17.0,bachelor's,1.0,75960.0,working full time,female,black
+47,32.0,12.0,high school,0.0,28485.0,working full time,female,black
+51,59.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+52,46.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+53,43.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+54,60.0,12.0,high school,0.0,63300.0,working full time,male,white
+55,38.0,12.0,high school,0.0,158424.85359,working full time,male,white
+57,28.0,14.0,high school,0.0,20572.5,working full time,female,black
+62,30.0,12.0,high school,0.0,316.5,working part time,female,white
+66,34.0,12.0,less than high school,0.0,,working full time,female,black
+67,47.0,16.0,bachelor's,1.0,20572.5,working part time,female,white
+68,47.0,15.0,high school,0.0,1266.0,working part time,female,white
+69,58.0,17.0,bachelor's,1.0,42727.5,working full time,female,black
+72,41.0,14.0,high school,0.0,63300.0,working full time,male,black
+73,32.0,16.0,bachelor's,1.0,158424.85359,working full time,female,black
+76,55.0,12.0,high school,0.0,34815.0,working full time,male,black
+78,31.0,20.0,bachelor's,1.0,23737.5,working full time,female,black
+83,44.0,15.0,associate/junior college,0.0,88620.0,working full time,male,white
+89,26.0,16.0,bachelor's,1.0,75960.0,working full time,male,black
+90,29.0,17.0,graduate,1.0,28485.0,working full time,male,
+91,36.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+92,29.0,15.0,high school,0.0,,working part time,female,black
+94,58.0,16.0,bachelor's,1.0,34815.0,working full time,female,black
+95,46.0,16.0,bachelor's,1.0,28485.0,working part time,male,white
+96,29.0,16.0,bachelor's,1.0,63300.0,working full time,female,other
+97,46.0,16.0,high school,0.0,42727.5,working full time,female,white
+99,28.0,16.0,bachelor's,1.0,23737.5,working full time,male,other
+100,38.0,16.0,bachelor's,1.0,,working full time,female,white
+101,25.0,14.0,associate/junior college,0.0,34815.0,working full time,male,black
+102,34.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+103,26.0,14.0,associate/junior college,0.0,11868.75,working part time,female,other
+104,63.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+106,47.0,18.0,graduate,1.0,88620.0,working full time,male,white
+107,40.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+111,61.0,16.0,high school,0.0,,working full time,male,white
+112,52.0,12.0,high school,0.0,23737.5,temporarily not at work,male,other
+113,48.0,15.0,associate/junior college,0.0,101280.0,working full time,male,black
+114,40.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+116,44.0,12.0,less than high school,0.0,52222.5,working full time,male,white
+117,42.0,12.0,high school,0.0,20572.5,working full time,male,other
+118,46.0,16.0,bachelor's,1.0,34815.0,working full time,male,other
+121,36.0,12.0,high school,0.0,88620.0,working full time,male,other
+128,52.0,12.0,high school,0.0,42727.5,working part time,male,other
+129,61.0,16.0,bachelor's,1.0,13451.25,working full time,male,white
+130,31.0,18.0,graduate,1.0,42727.5,working full time,female,white
+131,40.0,18.0,graduate,1.0,75960.0,working full time,male,other
+132,43.0,18.0,graduate,1.0,75960.0,working full time,male,other
+133,26.0,17.0,graduate,1.0,42727.5,working full time,male,black
+137,56.0,14.0,associate/junior college,0.0,17407.5,working full time,female,black
+140,34.0,16.0,bachelor's,1.0,75960.0,working full time,female,white
+143,36.0,18.0,bachelor's,1.0,63300.0,working full time,male,black
+150,29.0,18.0,graduate,1.0,158424.85359,working full time,male,black
+151,44.0,11.0,high school,0.0,63300.0,working full time,female,other
+152,37.0,10.0,less than high school,0.0,,working full time,male,other
+162,46.0,16.0,bachelor's,1.0,42727.5,working full time,female,black
+163,48.0,17.0,bachelor's,1.0,,working full time,male,other
+164,55.0,20.0,graduate,1.0,158424.85359,working full time,female,white
+166,40.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+169,31.0,18.0,associate/junior college,0.0,158424.85359,working full time,female,white
+170,39.0,13.0,high school,0.0,42727.5,working full time,male,white
+171,51.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+172,34.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+173,29.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+175,41.0,16.0,graduate,1.0,63300.0,working full time,female,white
+176,39.0,14.0,associate/junior college,0.0,13451.25,working full time,female,other
+177,63.0,16.0,bachelor's,1.0,28485.0,working full time,female,black
+178,41.0,16.0,bachelor's,1.0,15033.75,working part time,female,white
+182,53.0,18.0,graduate,1.0,75960.0,working full time,female,black
+183,34.0,16.0,bachelor's,1.0,8703.75,working full time,male,other
+184,62.0,12.0,high school,0.0,88620.0,working full time,male,black
+185,54.0,16.0,graduate,1.0,75960.0,working full time,female,other
+186,37.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+188,42.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+189,47.0,12.0,high school,0.0,13451.25,working part time,female,white
+190,49.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+193,64.0,18.0,graduate,1.0,75960.0,working part time,male,white
+195,45.0,12.0,high school,0.0,101280.0,working full time,male,white
+197,30.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+200,25.0,13.0,high school,0.0,42727.5,working full time,female,white
+201,29.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+203,29.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+204,53.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+207,43.0,19.0,graduate,1.0,101280.0,working full time,male,other
+209,40.0,17.0,graduate,1.0,34815.0,working part time,female,white
+210,60.0,14.0,high school,0.0,101280.0,working full time,male,white
+211,35.0,17.0,graduate,1.0,63300.0,working full time,male,other
+214,32.0,12.0,high school,0.0,158424.85359,temporarily not at work,female,white
+216,48.0,15.0,associate/junior college,0.0,34815.0,working full time,female,black
+217,61.0,3.0,less than high school,0.0,42727.5,working full time,male,white
+218,47.0,12.0,high school,0.0,63300.0,working full time,male,other
+220,57.0,15.0,less than high school,0.0,158424.85359,working full time,male,black
+222,31.0,14.0,associate/junior college,0.0,28485.0,working full time,female,black
+224,50.0,17.0,associate/junior college,0.0,34815.0,temporarily not at work,female,white
+225,39.0,15.0,high school,0.0,34815.0,working full time,male,white
+227,43.0,16.0,graduate,1.0,158424.85359,working full time,female,
+229,31.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+230,33.0,19.0,bachelor's,1.0,34815.0,working full time,male,white
+233,58.0,14.0,high school,0.0,,working full time,male,black
+234,39.0,17.0,bachelor's,1.0,158424.85359,working full time,female,white
+235,56.0,6.0,less than high school,0.0,23737.5,working full time,male,other
+239,27.0,17.0,graduate,1.0,42727.5,working full time,female,white
+240,36.0,12.0,high school,0.0,28485.0,working part time,male,white
+241,59.0,12.0,high school,0.0,20572.5,working part time,male,other
+242,25.0,15.0,associate/junior college,0.0,1266.0,temporarily not at work,male,black
+243,28.0,20.0,bachelor's,1.0,28485.0,working full time,female,black
+245,59.0,16.0,associate/junior college,0.0,17407.5,working part time,male,black
+247,55.0,3.0,less than high school,0.0,23737.5,working full time,male,white
+251,50.0,11.0,less than high school,0.0,34815.0,working part time,female,white
+256,32.0,14.0,associate/junior college,0.0,63300.0,working full time,male,other
+258,59.0,12.0,high school,0.0,28485.0,working full time,female,white
+260,36.0,17.0,bachelor's,1.0,28485.0,working full time,male,white
+263,50.0,13.0,less than high school,0.0,,working full time,male,other
+264,38.0,20.0,graduate,1.0,52222.5,working full time,female,white
+265,29.0,17.0,bachelor's,1.0,75960.0,working full time,female,black
+267,37.0,20.0,graduate,1.0,101280.0,working full time,female,white
+268,30.0,16.0,graduate,1.0,158424.85359,working full time,female,white
+270,52.0,16.0,graduate,1.0,158424.85359,working full time,male,white
+273,45.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+274,33.0,13.0,high school,0.0,23737.5,working full time,male,white
+275,55.0,20.0,graduate,1.0,101280.0,working part time,male,black
+276,46.0,9.0,less than high school,0.0,,working full time,female,white
+277,57.0,16.0,graduate,1.0,158424.85359,working full time,male,white
+280,37.0,19.0,graduate,1.0,63300.0,working full time,female,other
+285,28.0,14.0,associate/junior college,0.0,28485.0,working full time,male,white
+286,53.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+287,63.0,12.0,high school,0.0,52222.5,working full time,female,white
+289,56.0,12.0,high school,0.0,34815.0,working full time,female,white
+290,44.0,14.0,less than high school,0.0,75960.0,working part time,female,white
+294,32.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+295,39.0,12.0,high school,0.0,63300.0,working full time,female,other
+297,55.0,17.0,bachelor's,1.0,75960.0,working full time,female,other
+299,61.0,11.0,high school,0.0,42727.5,working part time,,white
+300,28.0,12.0,high school,0.0,20572.5,working part time,female,white
+306,26.0,12.0,high school,0.0,11868.75,working part time,female,white
+307,54.0,6.0,less than high school,0.0,52222.5,working full time,male,other
+310,39.0,12.0,less than high school,0.0,34815.0,working full time,male,white
+314,36.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+319,56.0,12.0,high school,0.0,52222.5,working full time,male,black
+320,33.0,16.0,bachelor's,1.0,,working full time,male,
+322,54.0,14.0,high school,0.0,11868.75,working part time,male,white
+325,30.0,12.0,high school,0.0,42727.5,working full time,female,other
+326,52.0,18.0,graduate,1.0,63300.0,working full time,female,white
+328,47.0,16.0,associate/junior college,0.0,42727.5,temporarily not at work,female,black
+329,54.0,14.0,associate/junior college,0.0,34815.0,working full time,female,other
+330,33.0,16.0,associate/junior college,0.0,42727.5,working full time,male,other
+334,35.0,11.0,less than high school,0.0,,working full time,female,other
+337,39.0,16.0,graduate,1.0,63300.0,working full time,male,white
+338,31.0,12.0,high school,0.0,42727.5,working full time,male,other
+340,30.0,16.0,high school,0.0,15033.75,working full time,female,other
+342,26.0,14.0,associate/junior college,0.0,11868.75,working full time,male,other
+345,33.0,14.0,high school,0.0,75960.0,working full time,female,white
+348,47.0,14.0,high school,0.0,42727.5,working full time,male,other
+350,57.0,14.0,high school,0.0,13451.25,working part time,female,other
+352,56.0,19.0,graduate,1.0,101280.0,working full time,female,black
+354,63.0,12.0,high school,0.0,15033.75,working full time,female,white
+356,42.0,16.0,graduate,1.0,42727.5,temporarily not at work,female,white
+358,62.0,16.0,graduate,1.0,63300.0,working full time,female,white
+361,39.0,14.0,high school,0.0,158424.85359,working full time,male,white
+363,49.0,12.0,high school,0.0,,working full time,male,white
+374,45.0,11.0,less than high school,0.0,20572.5,working full time,female,black
+378,33.0,12.0,high school,0.0,13451.25,working full time,female,other
+383,59.0,16.0,bachelor's,1.0,101280.0,working part time,female,white
+386,39.0,19.0,graduate,1.0,158424.85359,temporarily not at work,male,white
+389,54.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+394,39.0,16.0,bachelor's,1.0,158424.85359,temporarily not at work,male,white
+400,51.0,14.0,associate/junior college,0.0,,working part time,male,black
+401,30.0,16.0,associate/junior college,0.0,75960.0,working full time,male,white
+403,57.0,12.0,high school,0.0,,working full time,male,white
+404,48.0,14.0,high school,0.0,88620.0,working full time,male,white
+406,62.0,12.0,high school,0.0,,working part time,male,
+407,57.0,14.0,high school,0.0,63300.0,working full time,female,white
+413,29.0,16.0,bachelor's,1.0,,working full time,female,white
+414,31.0,16.0,graduate,1.0,158424.85359,working full time,female,white
+416,40.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+421,46.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+422,31.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+424,42.0,14.0,high school,0.0,63300.0,working full time,male,black
+426,62.0,12.0,high school,0.0,34815.0,temporarily not at work,male,white
+428,39.0,16.0,high school,0.0,158424.85359,working full time,male,white
+429,63.0,17.0,bachelor's,1.0,158424.85359,working full time,female,white
+430,49.0,17.0,bachelor's,1.0,75960.0,working full time,female,white
+431,59.0,16.0,bachelor's,1.0,,working part time,female,white
+433,29.0,12.0,high school,0.0,7121.25,working part time,male,white
+434,45.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+437,29.0,13.0,high school,0.0,88620.0,working full time,male,white
+438,29.0,12.0,high school,0.0,101280.0,working full time,male,white
+439,32.0,13.0,high school,0.0,88620.0,working part time,female,white
+441,39.0,12.0,high school,0.0,52222.5,working full time,male,white
+444,31.0,15.0,high school,0.0,34815.0,working full time,female,white
+445,33.0,12.0,high school,0.0,,working full time,female,white
+447,39.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+449,47.0,18.0,high school,0.0,75960.0,working full time,male,white
+450,48.0,14.0,high school,0.0,63300.0,working full time,male,other
+451,46.0,12.0,high school,0.0,158424.85359,working full time,male,black
+453,42.0,16.0,bachelor's,1.0,88620.0,working full time,male,other
+454,64.0,14.0,high school,0.0,,working part time,female,black
+455,29.0,17.0,bachelor's,1.0,63300.0,working full time,female,white
+459,56.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+460,32.0,15.0,high school,0.0,316.5,working full time,female,white
+462,56.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+463,33.0,13.0,high school,0.0,75960.0,working full time,female,white
+465,36.0,,less than high school,0.0,,working full time,female,
+466,44.0,8.0,less than high school,0.0,13451.25,working full time,male,other
+467,49.0,12.0,high school,0.0,52222.5,working full time,female,black
+470,45.0,14.0,high school,0.0,7121.25,working full time,female,white
+471,26.0,16.0,graduate,1.0,101280.0,working full time,female,white
+472,62.0,16.0,bachelor's,1.0,88620.0,working part time,female,white
+476,44.0,15.0,bachelor's,1.0,42727.5,temporarily not at work,female,white
+478,26.0,17.0,graduate,1.0,75960.0,working full time,female,white
+482,57.0,20.0,graduate,1.0,158424.85359,working full time,female,white
+483,61.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+485,58.0,19.0,graduate,1.0,158424.85359,working full time,female,white
+488,60.0,16.0,bachelor's,1.0,13451.25,working part time,male,black
+489,51.0,12.0,high school,0.0,15033.75,working full time,male,black
+492,49.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+495,38.0,12.0,high school,0.0,,working full time,male,white
+497,56.0,15.0,high school,0.0,42727.5,working full time,male,
+499,40.0,12.0,less than high school,0.0,2848.5,working full time,female,black
+502,29.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+503,29.0,12.0,high school,0.0,28485.0,working full time,female,black
+505,28.0,20.0,graduate,1.0,316.5,working full time,male,black
+506,62.0,20.0,graduate,1.0,63300.0,working full time,female,white
+507,36.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+510,37.0,19.0,graduate,1.0,88620.0,working full time,female,white
+511,34.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+512,34.0,16.0,bachelor's,1.0,88620.0,working full time,female,white
+515,61.0,14.0,associate/junior college,0.0,88620.0,working full time,female,white
+518,53.0,17.0,bachelor's,1.0,63300.0,working part time,male,white
+519,32.0,16.0,bachelor's,1.0,158424.85359,working full time,female,other
+520,49.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+523,41.0,20.0,graduate,1.0,158424.85359,working full time,female,other
+530,45.0,14.0,associate/junior college,0.0,158424.85359,working full time,male,white
+531,49.0,18.0,graduate,1.0,88620.0,working full time,female,black
+532,26.0,12.0,high school,0.0,52222.5,temporarily not at work,male,
+537,42.0,13.0,high school,0.0,158424.85359,working full time,male,white
+539,54.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+541,53.0,13.0,high school,0.0,,working full time,female,black
+542,33.0,8.0,less than high school,0.0,8703.75,working full time,male,other
+545,35.0,17.0,graduate,1.0,88620.0,working full time,female,white
+546,63.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+548,58.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+556,60.0,14.0,high school,0.0,42727.5,working full time,female,white
+557,31.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+562,28.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+565,37.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+568,52.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+571,25.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+572,31.0,12.0,high school,0.0,,working full time,male,other
+573,39.0,16.0,graduate,1.0,158424.85359,working full time,male,white
+574,41.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+576,37.0,12.0,high school,0.0,63300.0,working full time,male,white
+577,43.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+578,33.0,12.0,high school,0.0,158424.85359,working full time,male,white
+580,38.0,16.0,graduate,1.0,158424.85359,working full time,male,white
+581,58.0,16.0,bachelor's,1.0,,working full time,female,black
+584,47.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+585,57.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+586,59.0,14.0,associate/junior college,0.0,158424.85359,working full time,female,white
+588,36.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+589,34.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+590,43.0,16.0,bachelor's,1.0,42727.5,working full time,female,other
+591,31.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+593,51.0,16.0,graduate,1.0,88620.0,working full time,female,white
+594,52.0,18.0,graduate,1.0,88620.0,working full time,female,white
+598,56.0,16.0,graduate,1.0,158424.85359,working full time,male,other
+600,28.0,20.0,graduate,1.0,17407.5,working full time,male,white
+601,28.0,17.0,graduate,1.0,42727.5,working full time,,white
+604,42.0,14.0,high school,0.0,34815.0,working full time,female,white
+608,45.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+609,32.0,16.0,graduate,1.0,34815.0,working full time,female,white
+610,25.0,12.0,high school,0.0,,working full time,male,white
+611,62.0,14.0,high school,0.0,158424.85359,working full time,female,white
+612,46.0,16.0,bachelor's,1.0,158424.85359,working part time,female,white
+615,56.0,17.0,bachelor's,1.0,88620.0,working full time,female,white
+616,31.0,12.0,high school,0.0,28485.0,working full time,female,white
+618,27.0,16.0,bachelor's,1.0,52222.5,working full time,male,other
+621,33.0,13.0,high school,0.0,88620.0,working full time,male,white
+625,27.0,12.0,less than high school,0.0,52222.5,working full time,female,white
+627,34.0,13.0,high school,0.0,11868.75,working part time,female,other
+630,28.0,12.0,high school,0.0,52222.5,temporarily not at work,female,other
+632,52.0,17.0,bachelor's,1.0,88620.0,working full time,male,white
+633,42.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+637,61.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+640,54.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+641,53.0,14.0,high school,0.0,63300.0,working full time,male,white
+642,51.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+644,29.0,19.0,bachelor's,1.0,52222.5,working part time,male,white
+647,61.0,12.0,high school,0.0,52222.5,working full time,male,white
+649,44.0,18.0,graduate,1.0,52222.5,temporarily not at work,female,white
+651,59.0,12.0,high school,0.0,34815.0,working full time,male,white
+653,39.0,19.0,graduate,1.0,75960.0,working full time,female,white
+654,38.0,16.0,graduate,1.0,101280.0,working part time,female,white
+655,34.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+659,27.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+660,30.0,17.0,graduate,1.0,63300.0,working full time,male,white
+661,60.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+663,54.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+668,62.0,17.0,graduate,1.0,158424.85359,working full time,male,other
+670,47.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+672,53.0,17.0,bachelor's,1.0,88620.0,working full time,female,white
+676,40.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+678,38.0,18.0,graduate,1.0,88620.0,working full time,female,white
+680,52.0,17.0,bachelor's,1.0,101280.0,working full time,female,black
+681,44.0,17.0,bachelor's,1.0,88620.0,working full time,male,black
+683,44.0,15.0,high school,0.0,63300.0,working full time,female,black
+686,57.0,12.0,high school,0.0,63300.0,working full time,male,black
+687,46.0,14.0,high school,0.0,158424.85359,working full time,male,white
+689,32.0,17.0,graduate,1.0,316.5,working full time,male,white
+690,46.0,15.0,associate/junior college,0.0,17407.5,working full time,female,black
+691,41.0,12.0,high school,0.0,158424.85359,working full time,male,white
+692,37.0,12.0,high school,0.0,17407.5,working part time,female,other
+695,41.0,16.0,bachelor's,1.0,88620.0,temporarily not at work,female,other
+698,39.0,12.0,high school,0.0,88620.0,working full time,female,other
+699,55.0,16.0,graduate,1.0,158424.85359,working full time,male,other
+700,29.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+701,35.0,16.0,associate/junior college,0.0,,working full time,male,other
+702,28.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+703,48.0,17.0,bachelor's,1.0,101280.0,working full time,female,white
+706,27.0,12.0,high school,0.0,,working full time,female,white
+711,57.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+717,58.0,12.0,high school,0.0,63300.0,working part time,female,white
+719,46.0,13.0,high school,0.0,75960.0,working full time,male,white
+722,61.0,16.0,associate/junior college,0.0,42727.5,working full time,female,white
+727,30.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+729,37.0,16.0,bachelor's,1.0,101280.0,working part time,female,white
+730,32.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+731,49.0,17.0,graduate,1.0,75960.0,working full time,female,white
+733,38.0,14.0,high school,0.0,34815.0,working full time,male,white
+734,39.0,13.0,high school,0.0,11868.75,working full time,female,other
+736,60.0,14.0,associate/junior college,0.0,63300.0,working full time,male,other
+737,51.0,14.0,associate/junior college,0.0,75960.0,working full time,male,white
+738,37.0,13.0,high school,0.0,28485.0,working full time,female,black
+740,43.0,20.0,graduate,1.0,52222.5,working full time,female,other
+741,45.0,14.0,high school,0.0,23737.5,working full time,female,other
+743,55.0,12.0,high school,0.0,42727.5,working full time,female,black
+750,61.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+754,31.0,20.0,bachelor's,1.0,52222.5,working full time,female,white
+761,25.0,18.0,graduate,1.0,88620.0,working full time,female,white
+763,38.0,12.0,high school,0.0,42727.5,working full time,male,black
+765,32.0,14.0,high school,0.0,20572.5,working full time,female,black
+766,35.0,16.0,bachelor's,1.0,52222.5,working full time,male,other
+767,44.0,20.0,graduate,1.0,75960.0,working full time,male,black
+768,49.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+770,43.0,12.0,high school,0.0,101280.0,working full time,male,white
+771,40.0,20.0,graduate,1.0,75960.0,working full time,female,black
+772,62.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+782,58.0,12.0,high school,0.0,88620.0,temporarily not at work,female,white
+785,43.0,20.0,graduate,1.0,,working full time,female,white
+786,62.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+787,40.0,15.0,high school,0.0,158424.85359,working full time,male,white
+788,37.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+790,39.0,16.0,graduate,1.0,158424.85359,working full time,male,white
+791,42.0,16.0,bachelor's,1.0,75960.0,working full time,female,
+792,37.0,20.0,graduate,1.0,158424.85359,working full time,female,other
+793,61.0,14.0,high school,0.0,75960.0,working full time,female,white
+797,64.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+800,55.0,17.0,bachelor's,1.0,158424.85359,working part time,female,white
+802,50.0,16.0,high school,0.0,52222.5,working full time,male,white
+803,41.0,12.0,high school,0.0,101280.0,working full time,male,white
+805,56.0,18.0,graduate,1.0,42727.5,working full time,female,white
+806,56.0,20.0,bachelor's,1.0,101280.0,working full time,male,white
+808,40.0,13.0,high school,0.0,34815.0,working part time,male,black
+809,41.0,14.0,associate/junior college,0.0,42727.5,working full time,male,other
+812,54.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+813,33.0,12.0,high school,0.0,28485.0,working full time,female,white
+814,40.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+821,54.0,18.0,graduate,1.0,75960.0,working part time,female,white
+825,47.0,10.0,high school,0.0,63300.0,working full time,female,white
+826,40.0,12.0,high school,0.0,63300.0,working full time,female,other
+827,32.0,16.0,bachelor's,1.0,63300.0,working part time,female,white
+829,61.0,12.0,high school,0.0,101280.0,working full time,male,white
+831,39.0,19.0,graduate,1.0,63300.0,working full time,female,other
+832,28.0,11.0,less than high school,0.0,,working full time,male,white
+833,60.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+836,57.0,12.0,high school,0.0,42727.5,working full time,male,other
+840,60.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+842,41.0,20.0,graduate,1.0,88620.0,working full time,male,white
+843,61.0,18.0,graduate,1.0,34815.0,working full time,female,white
+846,28.0,14.0,associate/junior college,0.0,158424.85359,working full time,male,white
+847,42.0,14.0,associate/junior college,0.0,52222.5,working full time,male,white
+848,36.0,15.0,high school,0.0,75960.0,working full time,male,white
+850,60.0,14.0,associate/junior college,0.0,158424.85359,working full time,male,white
+851,59.0,19.0,bachelor's,1.0,75960.0,working full time,female,white
+857,54.0,12.0,high school,0.0,42727.5,temporarily not at work,female,white
+862,58.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+865,64.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+868,39.0,18.0,graduate,1.0,75960.0,working full time,female,white
+873,58.0,16.0,bachelor's,1.0,158424.85359,working full time,female,black
+876,26.0,14.0,high school,0.0,75960.0,working full time,female,other
+877,34.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+878,34.0,15.0,bachelor's,1.0,42727.5,working full time,male,white
+880,32.0,16.0,graduate,1.0,101280.0,working full time,female,other
+885,35.0,16.0,bachelor's,1.0,52222.5,working full time,female,black
+886,40.0,11.0,less than high school,0.0,20572.5,working full time,female,black
+887,53.0,16.0,bachelor's,1.0,17407.5,working full time,male,black
+892,51.0,20.0,graduate,1.0,101280.0,working full time,female,white
+893,54.0,12.0,high school,0.0,75960.0,working full time,male,white
+902,27.0,,less than high school,0.0,7121.25,working full time,male,white
+903,57.0,15.0,high school,0.0,101280.0,working part time,female,white
+904,33.0,20.0,bachelor's,1.0,23737.5,working full time,male,white
+905,59.0,13.0,high school,0.0,52222.5,working part time,female,white
+907,63.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+908,37.0,14.0,associate/junior college,0.0,42727.5,working full time,female,
+912,42.0,14.0,high school,0.0,42727.5,working full time,male,black
+913,42.0,16.0,bachelor's,1.0,42727.5,working full time,female,black
+915,45.0,14.0,high school,0.0,63300.0,working full time,female,white
+918,37.0,11.0,high school,0.0,23737.5,working full time,female,white
+922,44.0,16.0,bachelor's,1.0,88620.0,working full time,female,black
+926,38.0,20.0,graduate,1.0,75960.0,temporarily not at work,female,black
+927,41.0,14.0,high school,0.0,34815.0,working part time,female,black
+929,52.0,15.0,high school,0.0,15033.75,working full time,female,white
+930,64.0,10.0,high school,0.0,8703.75,working part time,male,white
+931,32.0,16.0,bachelor's,1.0,,working full time,male,other
+932,28.0,14.0,high school,0.0,34815.0,working part time,male,white
+937,38.0,12.0,high school,0.0,42727.5,working full time,female,white
+941,25.0,15.0,high school,0.0,28485.0,working full time,male,white
+942,32.0,9.0,less than high school,0.0,20572.5,working part time,female,white
+944,25.0,12.0,high school,0.0,1266.0,working part time,female,other
+947,48.0,14.0,associate/junior college,0.0,23737.5,working full time,female,black
+948,41.0,6.0,less than high school,0.0,,working part time,male,white
+949,39.0,15.0,bachelor's,1.0,3481.5,working full time,female,white
+950,26.0,20.0,high school,0.0,2215.5,working full time,female,black
+951,38.0,16.0,bachelor's,1.0,42727.5,working full time,male,other
+952,50.0,17.0,bachelor's,1.0,88620.0,working full time,male,other
+953,57.0,12.0,high school,0.0,17407.5,working full time,male,black
+954,42.0,16.0,bachelor's,1.0,75960.0,working full time,female,other
+955,50.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+956,34.0,,less than high school,0.0,52222.5,working full time,male,white
+957,48.0,14.0,high school,0.0,52222.5,working full time,male,white
+960,34.0,17.0,graduate,1.0,63300.0,working full time,female,white
+962,36.0,17.0,graduate,1.0,158424.85359,working full time,female,white
+963,52.0,18.0,bachelor's,1.0,158424.85359,working full time,female,white
+965,57.0,18.0,graduate,1.0,42727.5,working part time,female,white
+966,35.0,11.0,high school,0.0,23737.5,working part time,male,white
+968,49.0,14.0,high school,0.0,158424.85359,working full time,male,other
+969,50.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+970,25.0,13.0,high school,0.0,20572.5,working part time,male,black
+971,49.0,12.0,high school,0.0,5697.0,working full time,female,black
+972,62.0,16.0,bachelor's,1.0,101280.0,working full time,male,other
+973,64.0,14.0,high school,0.0,5697.0,working part time,female,black
+976,58.0,15.0,associate/junior college,0.0,23737.5,working full time,male,other
+977,32.0,12.0,high school,0.0,42727.5,working full time,male,black
+978,32.0,10.0,less than high school,0.0,88620.0,working part time,male,white
+979,41.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+980,29.0,9.0,less than high school,0.0,,working full time,female,other
+982,64.0,16.0,high school,0.0,42727.5,working full time,male,other
+985,31.0,20.0,graduate,1.0,75960.0,working full time,male,black
+986,28.0,14.0,high school,0.0,34815.0,working full time,female,white
+987,40.0,10.0,less than high school,0.0,,working part time,female,black
+988,43.0,12.0,high school,0.0,13451.25,working full time,male,black
+995,28.0,16.0,high school,0.0,,working full time,male,other
+998,60.0,17.0,bachelor's,1.0,88620.0,working full time,female,white
+999,62.0,12.0,high school,0.0,23737.5,working full time,female,black
+1000,43.0,16.0,bachelor's,1.0,52222.5,working full time,female,black
+1002,47.0,18.0,graduate,1.0,17407.5,working full time,female,black
+1003,39.0,10.0,less than high school,0.0,42727.5,working full time,female,white
+1006,46.0,14.0,high school,0.0,101280.0,working full time,male,black
+1007,51.0,12.0,high school,0.0,75960.0,working full time,male,black
+1008,44.0,16.0,bachelor's,1.0,,working full time,female,black
+1013,36.0,20.0,graduate,1.0,63300.0,working full time,female,white
+1015,55.0,14.0,high school,0.0,34815.0,working full time,male,black
+1017,34.0,13.0,high school,0.0,42727.5,working part time,female,white
+1019,41.0,14.0,associate/junior college,0.0,101280.0,working full time,male,white
+1020,42.0,14.0,high school,0.0,158424.85359,working full time,male,white
+1021,29.0,16.0,associate/junior college,0.0,42727.5,working part time,male,black
+1024,53.0,18.0,graduate,1.0,52222.5,working full time,female,black
+1025,56.0,14.0,associate/junior college,0.0,63300.0,working full time,female,black
+1029,25.0,16.0,bachelor's,1.0,,working full time,male,white
+1030,60.0,11.0,high school,0.0,13451.25,working full time,female,other
+1031,60.0,12.0,high school,0.0,23737.5,working full time,female,white
+1032,58.0,9.0,less than high school,0.0,2215.5,working full time,female,white
+1035,55.0,12.0,high school,0.0,20572.5,working full time,female,white
+1036,31.0,13.0,high school,0.0,34815.0,working full time,female,white
+1039,38.0,13.0,high school,0.0,42727.5,working full time,female,black
+1040,31.0,12.0,high school,0.0,,working full time,female,black
+1043,25.0,17.0,bachelor's,1.0,42727.5,working full time,male,white
+1046,55.0,20.0,graduate,1.0,75960.0,working full time,male,white
+1047,35.0,13.0,high school,0.0,42727.5,working full time,male,black
+1051,59.0,12.0,high school,0.0,52222.5,working full time,male,white
+1052,25.0,11.0,less than high school,0.0,,working full time,female,other
+1053,51.0,12.0,high school,0.0,23737.5,working full time,female,white
+1056,47.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+1058,47.0,16.0,graduate,1.0,88620.0,working full time,female,black
+1059,56.0,12.0,high school,0.0,42727.5,working full time,female,white
+1060,27.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+1062,41.0,12.0,high school,0.0,,working full time,male,white
+1063,48.0,12.0,less than high school,0.0,42727.5,working part time,female,white
+1064,32.0,12.0,high school,0.0,52222.5,working full time,female,white
+1069,62.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+1070,57.0,15.0,high school,0.0,,working full time,female,black
+1071,61.0,17.0,bachelor's,1.0,,working full time,female,white
+1072,43.0,18.0,graduate,1.0,88620.0,working full time,male,white
+1073,46.0,17.0,graduate,1.0,158424.85359,working full time,male,white
+1075,56.0,17.0,bachelor's,1.0,158424.85359,working full time,male,white
+1077,34.0,11.0,less than high school,0.0,34815.0,working part time,male,other
+1078,30.0,,less than high school,0.0,17407.5,working part time,female,white
+1079,44.0,8.0,less than high school,0.0,11868.75,temporarily not at work,female,white
+1082,25.0,12.0,high school,0.0,28485.0,working full time,male,white
+1085,44.0,12.0,high school,0.0,34815.0,working full time,male,other
+1086,44.0,12.0,less than high school,0.0,13451.25,working full time,female,white
+1087,36.0,16.0,associate/junior college,0.0,28485.0,working full time,female,white
+1089,34.0,15.0,associate/junior college,0.0,28485.0,working full time,female,black
+1091,51.0,16.0,bachelor's,1.0,28485.0,working full time,female,black
+1093,53.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1095,44.0,18.0,graduate,1.0,101280.0,working full time,male,other
+1096,48.0,16.0,graduate,1.0,75960.0,working full time,male,other
+1098,44.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+1099,55.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+1100,50.0,16.0,bachelor's,1.0,88620.0,working full time,male,other
+1101,47.0,18.0,graduate,1.0,158424.85359,working full time,female,other
+1102,26.0,17.0,bachelor's,1.0,,working part time,female,white
+1103,54.0,20.0,graduate,1.0,75960.0,working full time,male,white
+1104,36.0,16.0,graduate,1.0,63300.0,working full time,male,white
+1106,26.0,12.0,high school,0.0,,working full time,female,black
+1107,33.0,13.0,high school,0.0,7121.25,working full time,male,black
+1108,32.0,16.0,bachelor's,1.0,42727.5,working part time,female,white
+1109,54.0,18.0,bachelor's,1.0,42727.5,working part time,female,black
+1110,31.0,16.0,graduate,1.0,158424.85359,working full time,female,black
+1116,26.0,13.0,high school,0.0,,working full time,male,black
+1119,42.0,13.0,high school,0.0,20572.5,working part time,female,white
+1120,60.0,13.0,high school,0.0,101280.0,working full time,female,white
+1123,39.0,19.0,graduate,1.0,101280.0,working full time,male,white
+1129,32.0,20.0,graduate,1.0,75960.0,working full time,female,other
+1131,41.0,19.0,bachelor's,1.0,52222.5,temporarily not at work,female,black
+1133,40.0,17.0,bachelor's,1.0,34815.0,working full time,female,black
+1134,43.0,20.0,graduate,1.0,75960.0,working part time,female,white
+1137,30.0,14.0,high school,0.0,23737.5,working full time,male,white
+1140,35.0,12.0,high school,0.0,17407.5,working full time,male,white
+1145,27.0,16.0,bachelor's,1.0,17407.5,working part time,male,other
+1150,26.0,,less than high school,0.0,,working full time,male,other
+1151,57.0,12.0,high school,0.0,15033.75,working part time,female,white
+1152,50.0,16.0,bachelor's,1.0,75960.0,working full time,male,black
+1155,25.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+1157,27.0,13.0,high school,0.0,23737.5,working full time,female,white
+1161,39.0,13.0,high school,0.0,,working full time,female,white
+1163,32.0,12.0,high school,0.0,20572.5,working full time,male,white
+1165,51.0,20.0,graduate,1.0,52222.5,working full time,female,white
+1168,63.0,12.0,high school,0.0,15033.75,working part time,male,white
+1169,52.0,20.0,graduate,1.0,158424.85359,temporarily not at work,male,white
+1173,41.0,7.0,less than high school,0.0,8703.75,working part time,female,white
+1174,40.0,15.0,high school,0.0,158424.85359,working full time,male,other
+1175,45.0,8.0,less than high school,0.0,75960.0,working full time,female,other
+1176,58.0,12.0,high school,0.0,34815.0,working part time,male,white
+1178,59.0,11.0,less than high school,0.0,15033.75,working part time,male,white
+1179,55.0,13.0,high school,0.0,20572.5,working full time,male,white
+1185,58.0,9.0,high school,0.0,42727.5,working full time,female,white
+1188,37.0,14.0,high school,0.0,52222.5,working full time,female,white
+1190,52.0,18.0,graduate,1.0,88620.0,working full time,female,white
+1196,37.0,17.0,graduate,1.0,42727.5,working full time,male,white
+1198,33.0,18.0,graduate,1.0,63300.0,working full time,female,white
+1199,44.0,16.0,bachelor's,1.0,158424.85359,working full time,female,other
+1207,59.0,16.0,high school,0.0,75960.0,working full time,male,other
+1209,37.0,12.0,high school,0.0,28485.0,working full time,male,white
+1210,57.0,14.0,high school,0.0,158424.85359,working full time,male,black
+1215,47.0,11.0,high school,0.0,63300.0,temporarily not at work,female,white
+1217,33.0,14.0,associate/junior college,0.0,42727.5,working full time,female,black
+1222,35.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+1224,28.0,15.0,bachelor's,1.0,23737.5,temporarily not at work,female,other
+1225,63.0,15.0,high school,0.0,20572.5,working full time,female,white
+1227,58.0,18.0,bachelor's,1.0,158424.85359,temporarily not at work,female,white
+1228,28.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+1233,46.0,20.0,graduate,1.0,75960.0,working full time,female,white
+1234,40.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+1235,33.0,19.0,graduate,1.0,,working full time,female,other
+1236,39.0,8.0,less than high school,0.0,2215.5,working part time,female,
+1237,32.0,16.0,bachelor's,1.0,42727.5,temporarily not at work,female,white
+1240,56.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+1242,52.0,14.0,high school,0.0,34815.0,working full time,male,other
+1243,50.0,12.0,high school,0.0,63300.0,working full time,male,other
+1244,39.0,12.0,high school,0.0,42727.5,working full time,female,other
+1246,40.0,12.0,high school,0.0,52222.5,working full time,male,black
+1247,64.0,,less than high school,0.0,13451.25,working part time,female,other
+1249,53.0,18.0,graduate,1.0,63300.0,working full time,male,white
+1250,41.0,17.0,bachelor's,1.0,101280.0,working full time,male,white
+1252,38.0,13.0,high school,0.0,158424.85359,working full time,female,
+1253,43.0,17.0,bachelor's,1.0,63300.0,working full time,male,white
+1254,58.0,12.0,less than high school,0.0,101280.0,working full time,male,other
+1256,38.0,12.0,high school,0.0,28485.0,working part time,male,white
+1257,32.0,12.0,high school,0.0,42727.5,working part time,female,other
+1258,45.0,13.0,high school,0.0,75960.0,working full time,male,white
+1259,36.0,14.0,high school,0.0,52222.5,working full time,female,other
+1263,36.0,18.0,graduate,1.0,88620.0,working full time,female,white
+1264,33.0,15.0,high school,0.0,63300.0,working full time,female,white
+1267,40.0,14.0,associate/junior college,0.0,34815.0,working full time,male,white
+1271,35.0,8.0,less than high school,0.0,17407.5,working full time,female,white
+1272,33.0,12.0,high school,0.0,34815.0,working full time,male,black
+1273,35.0,18.0,graduate,1.0,20572.5,working part time,female,white
+1275,34.0,14.0,high school,0.0,42727.5,working full time,male,other
+1276,52.0,16.0,bachelor's,1.0,101280.0,working full time,female,white
+1277,55.0,12.0,high school,0.0,75960.0,working full time,male,white
+1278,32.0,15.0,associate/junior college,0.0,42727.5,working full time,female,white
+1279,53.0,12.0,high school,0.0,52222.5,working full time,male,white
+1280,51.0,15.0,high school,0.0,75960.0,working full time,male,black
+1283,33.0,13.0,bachelor's,1.0,158424.85359,working full time,female,white
+1286,44.0,12.0,high school,0.0,28485.0,working full time,female,other
+1290,26.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+1291,42.0,16.0,bachelor's,1.0,88620.0,temporarily not at work,male,white
+1295,63.0,18.0,graduate,1.0,,working full time,female,other
+1303,54.0,12.0,less than high school,0.0,316.5,working full time,female,black
+1304,57.0,14.0,high school,0.0,34815.0,working full time,female,white
+1305,36.0,13.0,high school,0.0,63300.0,working full time,male,white
+1306,59.0,9.0,less than high school,0.0,5697.0,working part time,male,white
+1308,41.0,18.0,bachelor's,1.0,,working full time,male,
+1311,27.0,12.0,high school,0.0,42727.5,working full time,female,other
+1312,33.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+1313,33.0,17.0,bachelor's,1.0,42727.5,working full time,female,white
+1318,42.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+1319,33.0,18.0,bachelor's,1.0,158424.85359,working full time,male,white
+1321,41.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+1322,57.0,19.0,graduate,1.0,88620.0,working full time,female,white
+1325,44.0,14.0,associate/junior college,0.0,101280.0,working full time,male,white
+1326,42.0,16.0,bachelor's,1.0,158424.85359,working part time,female,white
+1327,45.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+1328,38.0,12.0,high school,0.0,28485.0,working full time,male,white
+1329,46.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+1332,42.0,14.0,associate/junior college,0.0,28485.0,working full time,female,white
+1334,38.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1335,39.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+1337,36.0,13.0,high school,0.0,,working full time,female,white
+1338,46.0,13.0,high school,0.0,23737.5,working full time,male,white
+1339,31.0,13.0,high school,0.0,42727.5,working full time,female,white
+1342,60.0,13.0,high school,0.0,158424.85359,working full time,male,white
+1343,58.0,15.0,associate/junior college,0.0,158424.85359,working part time,male,white
+1344,57.0,12.0,high school,0.0,63300.0,working full time,male,white
+1349,51.0,20.0,graduate,1.0,88620.0,working full time,female,white
+1350,30.0,12.0,high school,0.0,52222.5,working full time,male,white
+1351,28.0,20.0,graduate,1.0,75960.0,working full time,female,white
+1354,50.0,17.0,bachelor's,1.0,158424.85359,working full time,male,other
+1357,32.0,14.0,high school,0.0,,working full time,male,other
+1358,33.0,14.0,associate/junior college,0.0,,working full time,male,white
+1359,32.0,12.0,high school,0.0,88620.0,working full time,female,other
+1360,44.0,14.0,associate/junior college,0.0,52222.5,working full time,female,white
+1362,38.0,16.0,bachelor's,1.0,63300.0,working full time,female,other
+1363,61.0,15.0,high school,0.0,34815.0,working full time,female,white
+1364,57.0,20.0,high school,0.0,63300.0,working full time,male,white
+1366,30.0,15.0,associate/junior college,0.0,158424.85359,temporarily not at work,female,white
+1369,36.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+1370,57.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+1371,40.0,14.0,high school,0.0,75960.0,working full time,male,white
+1375,45.0,14.0,associate/junior college,0.0,42727.5,working full time,male,white
+1378,30.0,16.0,associate/junior college,0.0,,working full time,female,white
+1379,33.0,13.0,high school,0.0,75960.0,working part time,female,other
+1380,32.0,16.0,bachelor's,1.0,17407.5,working full time,male,other
+1381,36.0,14.0,associate/junior college,0.0,34815.0,working full time,male,black
+1384,27.0,12.0,high school,0.0,20572.5,working full time,female,other
+1388,44.0,20.0,graduate,1.0,63300.0,working full time,male,white
+1389,33.0,15.0,high school,0.0,88620.0,working full time,male,white
+1392,32.0,14.0,high school,0.0,52222.5,working full time,male,black
+1395,44.0,16.0,bachelor's,1.0,34815.0,working full time,female,black
+1396,27.0,16.0,associate/junior college,0.0,20572.5,working part time,male,other
+1397,45.0,15.0,bachelor's,1.0,101280.0,working full time,male,white
+1403,35.0,12.0,high school,0.0,158424.85359,working full time,female,white
+1405,32.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1406,32.0,14.0,associate/junior college,0.0,28485.0,working part time,male,white
+1408,29.0,16.0,bachelor's,1.0,23737.5,working part time,male,white
+1409,30.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+1411,33.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+1412,59.0,16.0,bachelor's,1.0,158424.85359,working part time,male,white
+1414,50.0,7.0,less than high school,0.0,52222.5,working full time,male,white
+1415,60.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+1418,60.0,16.0,associate/junior college,0.0,23737.5,working full time,female,white
+1421,54.0,12.0,less than high school,0.0,63300.0,working full time,female,white
+1423,40.0,14.0,associate/junior college,0.0,88620.0,working full time,female,white
+1425,53.0,16.0,high school,0.0,34815.0,working part time,female,white
+1428,62.0,14.0,high school,0.0,52222.5,working full time,male,white
+1429,62.0,12.0,high school,0.0,63300.0,working part time,female,white
+1431,58.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1432,46.0,15.0,high school,0.0,88620.0,working full time,male,white
+1439,44.0,12.0,high school,0.0,23737.5,working full time,male,black
+1441,60.0,8.0,less than high school,0.0,17407.5,working full time,male,white
+1443,36.0,14.0,high school,0.0,52222.5,working full time,male,white
+1450,38.0,12.0,high school,0.0,28485.0,working full time,male,black
+1452,56.0,16.0,bachelor's,1.0,,working full time,male,black
+1453,49.0,13.0,high school,0.0,28485.0,working full time,female,black
+1454,33.0,13.0,associate/junior college,0.0,23737.5,working full time,male,black
+1456,56.0,13.0,high school,0.0,15033.75,working full time,female,black
+1459,31.0,15.0,high school,0.0,42727.5,working full time,male,white
+1460,33.0,11.0,less than high school,0.0,28485.0,working part time,female,other
+1461,55.0,11.0,less than high school,0.0,8703.75,working full time,male,white
+1462,48.0,13.0,high school,0.0,8703.75,working part time,female,white
+1463,33.0,17.0,high school,0.0,17407.5,working part time,female,black
+1464,27.0,12.0,high school,0.0,11868.75,working part time,female,black
+1465,37.0,11.0,high school,0.0,34815.0,working full time,male,white
+1469,28.0,10.0,high school,0.0,42727.5,working full time,male,white
+1470,36.0,12.0,high school,0.0,63300.0,working full time,male,white
+1473,33.0,13.0,high school,0.0,34815.0,working full time,male,white
+1475,48.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1479,39.0,12.0,high school,0.0,52222.5,working full time,female,white
+1480,51.0,15.0,associate/junior college,0.0,88620.0,working full time,male,white
+1481,33.0,14.0,associate/junior college,0.0,63300.0,working full time,male,white
+1485,57.0,12.0,high school,0.0,,working full time,male,white
+1487,56.0,20.0,graduate,1.0,,working full time,female,white
+1493,57.0,12.0,high school,0.0,63300.0,working full time,male,white
+1504,54.0,12.0,high school,0.0,88620.0,working full time,male,white
+1505,45.0,20.0,graduate,1.0,158424.85359,working full time,female,white
+1506,34.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+1507,61.0,16.0,bachelor's,1.0,20572.5,working full time,male,white
+1510,37.0,19.0,graduate,1.0,88620.0,working full time,female,white
+1512,47.0,12.0,high school,0.0,15033.75,working part time,female,black
+1514,35.0,16.0,bachelor's,1.0,23737.5,working full time,female,white
+1519,27.0,11.0,less than high school,0.0,,working part time,female,black
+1524,29.0,15.0,high school,0.0,28485.0,temporarily not at work,male,white
+1525,39.0,19.0,bachelor's,1.0,63300.0,working full time,female,white
+1526,34.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+1527,39.0,16.0,high school,0.0,,working full time,female,white
+1528,27.0,17.0,high school,0.0,42727.5,working part time,male,white
+1529,50.0,12.0,high school,0.0,34815.0,working full time,female,white
+1530,25.0,12.0,high school,0.0,28485.0,working full time,male,white
+1531,43.0,14.0,associate/junior college,0.0,20572.5,working full time,male,white
+1532,29.0,18.0,graduate,1.0,158424.85359,working full time,female,black
+1533,39.0,16.0,bachelor's,1.0,34815.0,working full time,female,
+1534,29.0,12.0,high school,0.0,42727.5,working full time,male,other
+1535,32.0,12.0,high school,0.0,75960.0,working full time,male,white
+1536,51.0,12.0,high school,0.0,15033.75,working part time,male,white
+1538,55.0,14.0,high school,0.0,52222.5,working full time,male,white
+1539,32.0,14.0,associate/junior college,0.0,20572.5,working full time,male,black
+1542,41.0,12.0,high school,0.0,5697.0,working full time,female,black
+1543,34.0,18.0,bachelor's,1.0,101280.0,working full time,male,white
+1545,48.0,16.0,bachelor's,1.0,23737.5,working full time,female,white
+1547,57.0,13.0,high school,0.0,88620.0,working full time,male,black
+1552,53.0,14.0,high school,0.0,101280.0,working full time,female,black
+1553,40.0,14.0,high school,0.0,34815.0,working full time,male,black
+1554,26.0,13.0,high school,0.0,42727.5,working full time,male,white
+1562,38.0,18.0,graduate,1.0,52222.5,working full time,male,white
+1563,48.0,15.0,associate/junior college,0.0,34815.0,working part time,male,white
+1564,49.0,14.0,high school,0.0,158424.85359,working full time,male,white
+1566,32.0,14.0,associate/junior college,0.0,88620.0,working full time,female,white
+1567,60.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+1569,37.0,17.0,bachelor's,1.0,158424.85359,working full time,female,white
+1571,32.0,12.0,high school,0.0,,temporarily not at work,male,other
+1575,42.0,13.0,high school,0.0,63300.0,working full time,female,white
+1576,54.0,16.0,graduate,1.0,158424.85359,working full time,female,white
+1578,59.0,13.0,high school,0.0,63300.0,working part time,female,white
+1579,34.0,14.0,high school,0.0,28485.0,working full time,male,other
+1581,26.0,17.0,bachelor's,1.0,28485.0,working full time,female,white
+1591,62.0,14.0,high school,0.0,52222.5,working full time,female,black
+1595,26.0,20.0,graduate,1.0,42727.5,working full time,male,white
+1596,49.0,14.0,associate/junior college,0.0,158424.85359,working part time,female,white
+1598,35.0,14.0,high school,0.0,63300.0,working full time,male,white
+1600,51.0,17.0,bachelor's,1.0,158424.85359,working part time,female,white
+1602,37.0,12.0,high school,0.0,34815.0,working full time,male,white
+1606,55.0,20.0,graduate,1.0,101280.0,working full time,female,white
+1607,27.0,17.0,bachelor's,1.0,34815.0,working full time,female,white
+1608,57.0,14.0,high school,0.0,34815.0,working full time,female,black
+1609,49.0,16.0,bachelor's,1.0,88620.0,working full time,male,black
+1612,52.0,12.0,high school,0.0,52222.5,working full time,male,black
+1613,35.0,14.0,high school,0.0,101280.0,working full time,male,black
+1614,51.0,20.0,graduate,1.0,52222.5,working part time,male,white
+1616,57.0,12.0,high school,0.0,52222.5,working full time,male,white
+1617,29.0,18.0,graduate,1.0,101280.0,working full time,female,black
+1625,30.0,12.0,high school,0.0,88620.0,working full time,male,white
+1630,42.0,19.0,bachelor's,1.0,63300.0,working part time,female,white
+1632,44.0,18.0,graduate,1.0,52222.5,working full time,female,white
+1633,63.0,12.0,high school,0.0,52222.5,working full time,male,white
+1634,51.0,14.0,associate/junior college,0.0,42727.5,working full time,male,black
+1635,34.0,11.0,less than high school,0.0,1266.0,working full time,female,white
+1638,30.0,14.0,high school,0.0,34815.0,working full time,male,black
+1639,38.0,18.0,bachelor's,1.0,34815.0,working full time,male,white
+1641,30.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+1642,46.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+1643,45.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+1644,42.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+1646,55.0,16.0,bachelor's,1.0,158424.85359,working part time,female,black
+1648,31.0,18.0,graduate,1.0,63300.0,working full time,male,other
+1649,36.0,18.0,graduate,1.0,52222.5,working full time,male,other
+1651,51.0,15.0,bachelor's,1.0,63300.0,working full time,male,white
+1652,32.0,16.0,bachelor's,1.0,,working full time,male,black
+1653,50.0,12.0,high school,0.0,28485.0,working full time,male,white
+1654,41.0,13.0,high school,0.0,63300.0,working full time,female,black
+1655,49.0,18.0,graduate,1.0,63300.0,working full time,male,black
+1656,47.0,18.0,bachelor's,1.0,75960.0,working full time,female,black
+1657,40.0,14.0,high school,0.0,52222.5,working full time,female,white
+1658,34.0,9.0,less than high school,0.0,13451.25,working full time,female,black
+1659,56.0,15.0,high school,0.0,158424.85359,working full time,male,white
+1665,51.0,12.0,high school,0.0,52222.5,working full time,male,other
+1666,59.0,14.0,associate/junior college,0.0,52222.5,working full time,female,black
+1667,55.0,16.0,bachelor's,1.0,158424.85359,working full time,female,black
+1670,41.0,14.0,high school,0.0,,working full time,male,white
+1674,35.0,8.0,less than high school,0.0,52222.5,working full time,male,white
+1675,37.0,13.0,high school,0.0,52222.5,working full time,female,white
+1679,32.0,12.0,high school,0.0,20572.5,working full time,male,white
+1680,57.0,14.0,high school,0.0,10286.25,working part time,male,white
+1681,36.0,12.0,high school,0.0,28485.0,working full time,female,white
+1682,28.0,12.0,high school,0.0,17407.5,working full time,male,white
+1684,48.0,12.0,high school,0.0,8703.75,working part time,female,white
+1686,36.0,12.0,high school,0.0,23737.5,working full time,male,other
+1689,28.0,12.0,high school,0.0,63300.0,working full time,female,white
+1692,35.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+1694,64.0,12.0,high school,0.0,52222.5,working full time,male,white
+1697,60.0,12.0,high school,0.0,52222.5,working full time,female,white
+1699,50.0,8.0,less than high school,0.0,7121.25,working part time,male,white
+1700,30.0,14.0,associate/junior college,0.0,28485.0,working full time,female,black
+1701,34.0,12.0,high school,0.0,8703.75,working part time,male,black
+1702,42.0,19.0,graduate,1.0,42727.5,working part time,male,black
+1703,43.0,14.0,associate/junior college,0.0,11868.75,working part time,female,black
+1704,32.0,11.0,less than high school,0.0,17407.5,working part time,female,black
+1707,39.0,12.0,high school,0.0,1266.0,working part time,female,black
+1709,60.0,15.0,associate/junior college,0.0,10286.25,working part time,male,black
+1710,31.0,13.0,graduate,1.0,2215.5,working full time,male,black
+1711,54.0,16.0,bachelor's,1.0,158424.85359,working full time,female,black
+1712,29.0,14.0,associate/junior college,0.0,52222.5,working full time,female,white
+1715,37.0,14.0,associate/junior college,0.0,28485.0,working full time,male,white
+1723,55.0,15.0,high school,0.0,8703.75,working part time,male,white
+1724,36.0,13.0,high school,0.0,20572.5,working full time,male,black
+1726,58.0,10.0,high school,0.0,28485.0,working full time,female,white
+1728,50.0,8.0,less than high school,0.0,4114.5,working full time,male,other
+1731,64.0,14.0,associate/junior college,0.0,63300.0,working full time,male,white
+1732,54.0,6.0,less than high school,0.0,23737.5,working full time,male,white
+1733,34.0,2.0,less than high school,0.0,13451.25,temporarily not at work,male,white
+1734,51.0,12.0,high school,0.0,63300.0,working full time,male,white
+1738,44.0,13.0,high school,0.0,52222.5,working full time,male,white
+1739,62.0,12.0,high school,0.0,75960.0,working part time,female,white
+1741,55.0,13.0,associate/junior college,0.0,,working full time,female,white
+1742,43.0,12.0,high school,0.0,88620.0,working full time,female,white
+1743,54.0,12.0,high school,0.0,34815.0,working full time,male,white
+1745,59.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+1746,55.0,13.0,high school,0.0,20572.5,working full time,female,white
+1748,45.0,13.0,high school,0.0,75960.0,working full time,female,white
+1751,33.0,16.0,graduate,1.0,42727.5,working full time,female,white
+1754,38.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+1760,54.0,16.0,bachelor's,1.0,20572.5,working full time,female,white
+1761,28.0,19.0,graduate,1.0,34815.0,working full time,female,white
+1766,46.0,12.0,high school,0.0,28485.0,working full time,male,white
+1767,45.0,12.0,high school,0.0,34815.0,working full time,male,white
+1768,43.0,12.0,less than high school,0.0,34815.0,working full time,male,white
+1769,43.0,12.0,high school,0.0,52222.5,working full time,male,black
+1774,50.0,14.0,associate/junior college,0.0,158424.85359,working full time,male,white
+1780,30.0,11.0,high school,0.0,,working full time,female,black
+1785,30.0,16.0,associate/junior college,0.0,52222.5,working full time,male,white
+1786,26.0,17.0,graduate,1.0,52222.5,working full time,male,white
+1791,26.0,12.0,high school,0.0,8703.75,working full time,female,white
+1794,47.0,11.0,less than high school,0.0,34815.0,working full time,male,other
+1798,31.0,15.0,associate/junior college,0.0,11868.75,temporarily not at work,male,white
+1805,35.0,14.0,high school,0.0,88620.0,working full time,male,white
+1806,39.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+1809,28.0,16.0,bachelor's,1.0,10286.25,working full time,male,black
+1810,32.0,12.0,high school,0.0,4114.5,working full time,male,white
+1814,27.0,18.0,bachelor's,1.0,63300.0,working part time,male,other
+1825,34.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+1835,48.0,16.0,associate/junior college,0.0,63300.0,working full time,female,white
+1836,62.0,18.0,graduate,1.0,52222.5,working full time,male,white
+1838,33.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+1840,30.0,16.0,bachelor's,1.0,75960.0,working part time,female,white
+1841,41.0,15.0,associate/junior college,0.0,20572.5,working full time,male,black
+1844,53.0,12.0,high school,0.0,63300.0,working full time,male,white
+1849,29.0,6.0,less than high school,0.0,7121.25,working full time,female,white
+1851,31.0,16.0,bachelor's,1.0,88620.0,temporarily not at work,female,white
+1852,27.0,18.0,graduate,1.0,75960.0,working full time,female,white
+1853,46.0,18.0,high school,0.0,34815.0,working full time,male,white
+1854,28.0,17.0,bachelor's,1.0,88620.0,working full time,male,white
+1856,47.0,12.0,high school,0.0,63300.0,working full time,female,other
+1860,55.0,13.0,high school,0.0,7121.25,working part time,female,white
+1864,30.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+1867,51.0,18.0,bachelor's,1.0,20572.5,working full time,female,white
+1869,60.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1870,61.0,16.0,bachelor's,1.0,101280.0,working full time,female,white
+1872,52.0,17.0,graduate,1.0,42727.5,working full time,female,white
+1873,44.0,12.0,high school,0.0,75960.0,working full time,female,black
+1875,39.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+1876,54.0,12.0,high school,0.0,,working full time,male,white
+1879,45.0,16.0,bachelor's,1.0,75960.0,working full time,male,other
+1880,34.0,15.0,high school,0.0,28485.0,working full time,female,white
+1882,38.0,17.0,graduate,1.0,158424.85359,working full time,male,white
+1885,25.0,16.0,bachelor's,1.0,28485.0,working part time,female,white
+1886,55.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+1888,32.0,19.0,graduate,1.0,88620.0,working full time,male,white
+1890,42.0,17.0,bachelor's,1.0,158424.85359,working full time,male,white
+1892,43.0,17.0,graduate,1.0,63300.0,working full time,male,white
+1893,55.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+1894,39.0,12.0,high school,0.0,42727.5,working part time,male,white
+1895,39.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+1899,34.0,12.0,high school,0.0,23737.5,temporarily not at work,female,white
+1902,26.0,12.0,less than high school,0.0,52222.5,working full time,male,white
+1903,26.0,12.0,high school,0.0,42727.5,working full time,male,white
+1904,61.0,20.0,graduate,1.0,28485.0,working full time,male,white
+1905,29.0,16.0,graduate,1.0,52222.5,working full time,male,other
+1907,31.0,16.0,bachelor's,1.0,28485.0,working full time,male,white
+1910,32.0,12.0,high school,0.0,,working full time,female,
+1913,46.0,13.0,high school,0.0,42727.5,working full time,male,white
+1914,53.0,18.0,graduate,1.0,52222.5,working full time,male,white
+1918,38.0,17.0,graduate,1.0,158424.85359,working full time,female,white
+1919,50.0,11.0,less than high school,0.0,158424.85359,working full time,male,white
+1920,46.0,20.0,graduate,1.0,,working full time,female,white
+1924,55.0,15.0,graduate,1.0,158424.85359,working full time,male,white
+1925,32.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+1926,25.0,12.0,high school,0.0,10286.25,working part time,female,white
+1927,29.0,10.0,high school,0.0,28485.0,working full time,male,white
+1928,55.0,12.0,high school,0.0,63300.0,working full time,male,white
+1930,44.0,12.0,high school,0.0,63300.0,working full time,male,white
+1931,33.0,12.0,high school,0.0,7121.25,temporarily not at work,male,white
+1932,61.0,14.0,associate/junior college,0.0,34815.0,working full time,female,white
+1933,42.0,17.0,graduate,1.0,52222.5,working full time,female,black
+1936,35.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+1937,41.0,17.0,graduate,1.0,42727.5,working full time,male,white
+1940,42.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+1943,45.0,15.0,high school,0.0,28485.0,working full time,male,white
+1945,37.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+1949,45.0,16.0,graduate,1.0,63300.0,working part time,female,white
+1950,37.0,17.0,bachelor's,1.0,17407.5,working full time,male,white
+1951,39.0,14.0,associate/junior college,0.0,63300.0,working full time,male,white
+1952,27.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+1954,34.0,15.0,associate/junior college,0.0,52222.5,working part time,female,white
+1957,26.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+1959,28.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+1964,62.0,12.0,high school,0.0,52222.5,working full time,male,white
+1967,63.0,13.0,high school,0.0,23737.5,working part time,male,white
+1968,30.0,12.0,high school,0.0,,working part time,female,white
+1970,30.0,10.0,high school,0.0,28485.0,working part time,female,white
+1972,32.0,9.0,high school,0.0,63300.0,working full time,female,white
+1975,45.0,12.0,high school,0.0,20572.5,working full time,female,white
+1977,53.0,14.0,associate/junior college,0.0,42727.5,temporarily not at work,male,white
+1980,51.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+1981,35.0,14.0,associate/junior college,0.0,28485.0,working full time,female,other
+1984,53.0,12.0,high school,0.0,42727.5,working full time,male,white
+1985,31.0,14.0,high school,0.0,7121.25,working full time,female,white
+1988,29.0,14.0,high school,0.0,23737.5,working full time,female,other
+1989,36.0,18.0,graduate,1.0,75960.0,working part time,female,white
+1992,36.0,19.0,graduate,1.0,52222.5,working full time,male,white
+1995,40.0,14.0,associate/junior college,0.0,42727.5,working full time,male,white
+1997,62.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+1998,32.0,17.0,bachelor's,1.0,52222.5,working full time,female,white
+2000,59.0,18.0,graduate,1.0,52222.5,temporarily not at work,female,white
+2004,32.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+2008,27.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+2010,39.0,15.0,high school,0.0,15033.75,working full time,male,white
+2012,34.0,20.0,graduate,1.0,34815.0,working full time,female,other
+2015,35.0,19.0,graduate,1.0,28485.0,working full time,female,white
+2016,63.0,16.0,associate/junior college,0.0,34815.0,working full time,female,
+2018,55.0,14.0,associate/junior college,0.0,20572.5,working full time,male,white
+2019,48.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+2020,58.0,13.0,high school,0.0,34815.0,working part time,female,black
+2025,35.0,18.0,graduate,1.0,101280.0,working full time,male,white
+2027,45.0,19.0,graduate,1.0,75960.0,working part time,male,white
+2030,43.0,20.0,graduate,1.0,34815.0,working full time,male,other
+2032,51.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+2033,30.0,16.0,bachelor's,1.0,63300.0,temporarily not at work,female,white
+2034,54.0,18.0,graduate,1.0,63300.0,working full time,female,white
+2035,40.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+2036,59.0,18.0,graduate,1.0,34815.0,working full time,female,white
+2037,47.0,18.0,graduate,1.0,63300.0,temporarily not at work,female,white
+2040,46.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+2042,55.0,18.0,bachelor's,1.0,63300.0,temporarily not at work,female,white
+2043,28.0,17.0,bachelor's,1.0,34815.0,working full time,male,white
+2045,64.0,14.0,high school,0.0,17407.5,working full time,male,other
+2046,30.0,14.0,high school,0.0,2215.5,working full time,female,black
+2051,41.0,14.0,associate/junior college,0.0,52222.5,working full time,male,white
+2052,40.0,14.0,high school,0.0,34815.0,working full time,male,white
+2053,29.0,14.0,high school,0.0,13451.25,working full time,female,white
+2055,40.0,17.0,graduate,1.0,63300.0,working full time,female,white
+2058,28.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+2059,26.0,16.0,associate/junior college,0.0,,working full time,female,white
+2065,49.0,15.0,high school,0.0,158424.85359,temporarily not at work,male,white
+2075,44.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+2076,32.0,10.0,high school,0.0,34815.0,working full time,female,white
+2077,59.0,12.0,high school,0.0,52222.5,working part time,male,white
+2081,61.0,12.0,high school,0.0,15033.75,working full time,male,white
+2085,33.0,12.0,high school,0.0,63300.0,working part time,female,white
+2088,58.0,18.0,graduate,1.0,52222.5,working full time,female,white
+2092,46.0,12.0,high school,0.0,20572.5,working full time,female,black
+2093,51.0,8.0,less than high school,0.0,52222.5,working full time,female,white
+2095,37.0,18.0,graduate,1.0,63300.0,working full time,female,white
+2096,60.0,18.0,graduate,1.0,,working part time,female,white
+2097,49.0,12.0,high school,0.0,52222.5,working full time,male,white
+2099,60.0,16.0,associate/junior college,0.0,28485.0,working full time,female,white
+2103,37.0,12.0,high school,0.0,34815.0,working part time,female,white
+2105,63.0,15.0,high school,0.0,34815.0,temporarily not at work,male,white
+2107,26.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+2108,29.0,14.0,associate/junior college,0.0,52222.5,working part time,male,white
+2111,44.0,12.0,high school,0.0,28485.0,working full time,male,black
+2112,55.0,12.0,high school,0.0,88620.0,working full time,male,white
+2119,25.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+2121,40.0,12.0,high school,0.0,52222.5,working full time,male,white
+2125,36.0,14.0,high school,0.0,63300.0,working part time,male,white
+2127,64.0,12.0,high school,0.0,,working part time,male,white
+2128,57.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+2134,52.0,16.0,high school,0.0,63300.0,working full time,male,white
+2135,53.0,13.0,high school,0.0,28485.0,working full time,female,other
+2136,43.0,14.0,associate/junior college,0.0,34815.0,working full time,female,white
+2137,54.0,20.0,graduate,1.0,158424.85359,working full time,female,white
+2138,35.0,13.0,high school,0.0,101280.0,temporarily not at work,male,white
+2146,54.0,13.0,high school,0.0,88620.0,working full time,male,black
+2149,32.0,13.0,high school,0.0,4747.5,working full time,female,white
+2150,33.0,12.0,high school,0.0,88620.0,working full time,male,white
+2154,45.0,12.0,high school,0.0,34815.0,working part time,male,white
+2157,57.0,14.0,high school,0.0,63300.0,working full time,male,white
+2159,30.0,16.0,bachelor's,1.0,23737.5,working full time,female,white
+2160,53.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+2170,41.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+2172,31.0,20.0,graduate,1.0,75960.0,working full time,female,white
+2177,29.0,18.0,graduate,1.0,52222.5,working full time,male,white
+2184,42.0,20.0,graduate,1.0,,working full time,female,white
+2187,56.0,15.0,high school,0.0,63300.0,working full time,female,white
+2188,38.0,14.0,high school,0.0,28485.0,working full time,male,white
+2191,41.0,18.0,bachelor's,1.0,88620.0,working full time,male,white
+2192,62.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+2193,29.0,16.0,bachelor's,1.0,88620.0,working full time,female,white
+2197,28.0,12.0,high school,0.0,63300.0,working full time,male,white
+2198,30.0,12.0,high school,0.0,42727.5,working part time,female,white
+2203,39.0,18.0,bachelor's,1.0,42727.5,working full time,male,white
+2210,45.0,12.0,high school,0.0,17407.5,working full time,female,white
+2214,29.0,,less than high school,0.0,,working full time,male,white
+2215,62.0,14.0,associate/junior college,0.0,34815.0,working full time,female,white
+2216,44.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+2218,58.0,17.0,bachelor's,1.0,42727.5,working full time,female,white
+2220,51.0,12.0,high school,0.0,75960.0,working full time,female,white
+2222,40.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+2224,38.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+2226,38.0,17.0,bachelor's,1.0,158424.85359,working full time,male,white
+2228,44.0,14.0,associate/junior college,0.0,42727.5,working full time,female,white
+2229,41.0,11.0,high school,0.0,34815.0,working full time,male,white
+2231,25.0,12.0,high school,0.0,15033.75,working full time,male,white
+2232,47.0,12.0,high school,0.0,23737.5,working full time,female,white
+2238,27.0,12.0,high school,0.0,,working part time,female,white
+2244,63.0,14.0,high school,0.0,15033.75,working full time,male,black
+2247,64.0,16.0,bachelor's,1.0,15033.75,working full time,female,black
+2250,51.0,14.0,high school,0.0,158424.85359,working full time,male,other
+2251,30.0,12.0,high school,0.0,63300.0,working full time,male,white
+2255,35.0,12.0,high school,0.0,1266.0,working full time,female,black
+2258,27.0,16.0,bachelor's,1.0,,working full time,male,white
+2259,61.0,14.0,graduate,1.0,23737.5,working full time,female,black
+2262,42.0,17.0,bachelor's,1.0,42727.5,working full time,female,
+2271,44.0,13.0,high school,0.0,17407.5,working full time,female,black
+2275,29.0,15.0,high school,0.0,15033.75,working full time,female,black
+2279,62.0,11.0,high school,0.0,17407.5,working part time,female,white
+2282,44.0,14.0,associate/junior college,0.0,34815.0,working full time,male,white
+2283,34.0,12.0,high school,0.0,63300.0,working full time,male,white
+2285,59.0,14.0,high school,0.0,42727.5,working full time,male,black
+2287,38.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+2288,52.0,16.0,bachelor's,1.0,42727.5,working full time,female,black
+2292,59.0,15.0,associate/junior college,0.0,158424.85359,working full time,male,other
+2293,59.0,14.0,associate/junior college,0.0,34815.0,working full time,female,white
+2294,35.0,12.0,high school,0.0,28485.0,working full time,male,black
+2303,38.0,13.0,high school,0.0,23737.5,working full time,female,black
+2308,44.0,12.0,high school,0.0,23737.5,temporarily not at work,female,black
+2309,44.0,20.0,graduate,1.0,13451.25,working full time,female,black
+2311,26.0,13.0,high school,0.0,17407.5,temporarily not at work,male,white
+2312,59.0,13.0,high school,0.0,,working part time,female,black
+2314,32.0,17.0,bachelor's,1.0,42727.5,working part time,female,white
+2316,33.0,14.0,high school,0.0,23737.5,working full time,female,white
+2321,25.0,16.0,graduate,1.0,63300.0,working full time,female,white
+2322,26.0,12.0,high school,0.0,28485.0,working full time,male,black
+2326,38.0,12.0,high school,0.0,52222.5,working full time,male,black
+2327,56.0,13.0,less than high school,0.0,23737.5,working full time,female,other
+2329,28.0,13.0,high school,0.0,15033.75,working full time,female,black
+2330,36.0,12.0,high school,0.0,7121.25,working full time,female,white
+2331,55.0,12.0,high school,0.0,23737.5,working full time,male,black
+2332,40.0,16.0,bachelor's,1.0,4114.5,working part time,female,black
+2334,35.0,6.0,less than high school,0.0,,working full time,male,other
+2337,43.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+2339,38.0,9.0,high school,0.0,75960.0,working full time,male,white
+2342,37.0,15.0,high school,0.0,52222.5,working full time,female,black
+2345,55.0,12.0,high school,0.0,52222.5,working full time,male,white
+2346,38.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+2347,48.0,10.0,high school,0.0,75960.0,working full time,female,black
+2348,27.0,12.0,high school,0.0,28485.0,working full time,female,black
+2355,38.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+2357,39.0,17.0,bachelor's,1.0,88620.0,working full time,male,white
+2358,34.0,14.0,associate/junior college,0.0,20572.5,working full time,female,black
+2359,42.0,14.0,high school,0.0,34815.0,working full time,female,black
+2360,54.0,15.0,associate/junior college,0.0,42727.5,working full time,female,black
+2362,30.0,12.0,less than high school,0.0,5697.0,working full time,male,white
+2364,53.0,17.0,bachelor's,1.0,34815.0,working full time,female,white
+2367,47.0,13.0,high school,0.0,23737.5,working full time,female,white
+2368,50.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+2374,42.0,16.0,bachelor's,1.0,23737.5,working full time,female,black
+2375,47.0,16.0,bachelor's,1.0,34815.0,working full time,female,other
+2376,63.0,12.0,high school,0.0,,working full time,male,white
+2377,28.0,14.0,high school,0.0,13451.25,working full time,female,other
+2378,53.0,8.0,less than high school,0.0,101280.0,working full time,female,black
+2381,58.0,18.0,graduate,1.0,34815.0,working full time,male,other
+2384,43.0,16.0,bachelor's,1.0,158424.85359,working part time,female,white
+2386,52.0,16.0,bachelor's,1.0,,working full time,male,white
+2387,49.0,19.0,bachelor's,1.0,75960.0,working part time,female,white
+2389,48.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+2393,47.0,4.0,less than high school,0.0,158424.85359,working full time,male,other
+2394,41.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+2397,41.0,14.0,associate/junior college,0.0,,working full time,female,white
+2400,58.0,12.0,high school,0.0,63300.0,working full time,male,white
+2403,64.0,16.0,bachelor's,1.0,13451.25,temporarily not at work,female,white
+2404,61.0,16.0,graduate,1.0,52222.5,working full time,female,white
+2405,59.0,14.0,high school,0.0,52222.5,working full time,female,white
+2411,30.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+2413,52.0,20.0,graduate,1.0,34815.0,temporarily not at work,female,black
+2415,31.0,13.0,high school,0.0,,working full time,female,black
+2416,44.0,9.0,less than high school,0.0,28485.0,working full time,male,white
+2420,28.0,12.0,high school,0.0,,working full time,male,white
+2421,44.0,14.0,high school,0.0,316.5,working full time,male,black
+2423,40.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+2424,56.0,16.0,bachelor's,1.0,75960.0,working full time,female,white
+2425,35.0,14.0,associate/junior college,0.0,101280.0,working full time,female,other
+2429,48.0,14.0,associate/junior college,0.0,11868.75,working full time,female,white
+2436,45.0,15.0,high school,0.0,42727.5,working full time,male,white
+2437,43.0,19.0,graduate,1.0,34815.0,temporarily not at work,female,white
+2439,38.0,13.0,high school,0.0,15033.75,working part time,female,black
+2440,29.0,12.0,less than high school,0.0,3481.5,working full time,female,white
+2441,37.0,11.0,less than high school,0.0,17407.5,working full time,male,white
+2443,49.0,8.0,less than high school,0.0,34815.0,working full time,male,white
+2446,25.0,13.0,high school,0.0,11868.75,working part time,male,white
+2447,53.0,12.0,high school,0.0,,working full time,male,white
+2448,40.0,12.0,high school,0.0,42727.5,working full time,female,white
+2452,27.0,14.0,high school,0.0,34815.0,working full time,female,white
+2453,36.0,16.0,bachelor's,1.0,23737.5,working full time,male,white
+2457,50.0,13.0,high school,0.0,52222.5,temporarily not at work,male,white
+2458,30.0,14.0,associate/junior college,0.0,34815.0,working full time,female,black
+2459,59.0,14.0,associate/junior college,0.0,52222.5,working full time,female,white
+2460,39.0,14.0,high school,0.0,28485.0,working full time,female,black
+2462,31.0,16.0,bachelor's,1.0,75960.0,working full time,female,white
+2467,37.0,20.0,graduate,1.0,75960.0,working full time,male,white
+2468,53.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+2470,33.0,14.0,high school,0.0,42727.5,working full time,female,white
+2476,30.0,12.0,high school,0.0,15033.75,working full time,female,black
+2481,25.0,13.0,high school,0.0,34815.0,working full time,female,black
+2483,31.0,15.0,high school,0.0,17407.5,working part time,female,black
+2484,33.0,12.0,high school,0.0,,working full time,,black
+2485,26.0,12.0,high school,0.0,,working full time,male,black
+2487,34.0,13.0,less than high school,0.0,316.5,working full time,female,black
+2488,26.0,10.0,less than high school,0.0,17407.5,working full time,male,white
+2492,51.0,12.0,high school,0.0,10286.25,working full time,male,black
+2496,60.0,12.0,high school,0.0,20572.5,working full time,female,white
+2498,47.0,7.0,less than high school,0.0,2215.5,working full time,male,black
+2499,31.0,14.0,high school,0.0,20572.5,working full time,female,white
+2500,29.0,14.0,high school,0.0,15033.75,working part time,male,white
+2502,59.0,13.0,high school,0.0,,working full time,female,black
+2505,25.0,12.0,high school,0.0,23737.5,working full time,male,black
+2506,28.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+2516,40.0,6.0,less than high school,0.0,23737.5,working full time,male,white
+2517,50.0,11.0,less than high school,0.0,11868.75,working full time,female,white
+2518,41.0,16.0,bachelor's,1.0,42727.5,working full time,male,black
+2520,31.0,16.0,bachelor's,1.0,28485.0,working full time,male,black
+2527,36.0,12.0,high school,0.0,15033.75,working full time,male,white
+2528,34.0,15.0,associate/junior college,0.0,,working full time,female,black
+2530,42.0,14.0,associate/junior college,0.0,52222.5,working part time,female,white
+2532,39.0,12.0,high school,0.0,28485.0,working full time,male,black
+2536,39.0,12.0,high school,0.0,34815.0,working full time,female,white
+2539,36.0,18.0,bachelor's,1.0,28485.0,working full time,male,black
+2540,39.0,16.0,associate/junior college,0.0,75960.0,working part time,female,white
+2541,25.0,13.0,high school,0.0,,working full time,female,other
+2544,27.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+2546,43.0,13.0,associate/junior college,0.0,3481.5,working part time,male,black
+2547,47.0,8.0,less than high school,0.0,15033.75,working full time,male,black
+2552,63.0,12.0,high school,0.0,63300.0,working full time,male,white
+2556,55.0,14.0,high school,0.0,101280.0,working full time,male,white
+2557,46.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+2560,50.0,12.0,high school,0.0,,temporarily not at work,male,black
+2561,40.0,13.0,high school,0.0,42727.5,working full time,male,white
+2564,38.0,18.0,graduate,1.0,63300.0,working full time,female,white
+2565,27.0,15.0,high school,0.0,23737.5,working full time,female,white
+2566,47.0,12.0,high school,0.0,,working full time,female,white
+2567,39.0,19.0,bachelor's,1.0,34815.0,working full time,male,white
+2570,60.0,17.0,bachelor's,1.0,63300.0,working full time,female,white
+2572,58.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+2579,61.0,14.0,high school,0.0,20572.5,working full time,male,white
+2580,52.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+2581,39.0,14.0,associate/junior college,0.0,13451.25,working full time,male,white
+2583,54.0,20.0,graduate,1.0,88620.0,working full time,male,white
+2586,29.0,12.0,high school,0.0,28485.0,working full time,female,white
+2595,47.0,12.0,high school,0.0,52222.5,working full time,male,white
+2596,37.0,18.0,graduate,1.0,34815.0,working full time,female,white
+2597,52.0,12.0,high school,0.0,42727.5,working full time,female,white
+2599,63.0,15.0,associate/junior college,0.0,,working part time,male,other
+2601,25.0,16.0,bachelor's,1.0,23737.5,working full time,female,white
+2603,56.0,12.0,high school,0.0,88620.0,working full time,male,white
+2604,43.0,13.0,high school,0.0,28485.0,working full time,male,white
+2607,40.0,12.0,high school,0.0,63300.0,working full time,male,white
+2613,54.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+2619,26.0,12.0,high school,0.0,28485.0,working full time,male,white
+2621,52.0,18.0,bachelor's,1.0,34815.0,working full time,female,white
+2624,31.0,17.0,graduate,1.0,101280.0,working full time,male,white
+2626,43.0,13.0,high school,0.0,,working full time,male,white
+2627,31.0,14.0,high school,0.0,34815.0,working part time,female,white
+2628,40.0,16.0,bachelor's,1.0,23737.5,working full time,male,other
+2632,38.0,13.0,high school,0.0,28485.0,working full time,male,white
+2635,25.0,11.0,high school,0.0,8703.75,working part time,female,white
+2636,34.0,9.0,less than high school,0.0,3481.5,working part time,female,black
+2638,30.0,14.0,high school,0.0,17407.5,working part time,female,black
+2640,42.0,16.0,bachelor's,1.0,88620.0,working full time,female,white
+2642,43.0,15.0,associate/junior college,0.0,158424.85359,working full time,male,white
+2643,58.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+2644,36.0,18.0,graduate,1.0,52222.5,working full time,female,white
+2645,34.0,12.0,high school,0.0,,working full time,male,white
+2646,30.0,14.0,bachelor's,1.0,20572.5,working full time,male,white
+2648,62.0,12.0,high school,0.0,101280.0,working full time,female,other
+2649,47.0,16.0,high school,0.0,34815.0,working full time,male,other
+2650,35.0,18.0,bachelor's,1.0,88620.0,working full time,male,white
+2651,52.0,20.0,graduate,1.0,88620.0,working full time,female,white
+2652,43.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+2653,42.0,19.0,graduate,1.0,101280.0,working full time,female,white
+2654,35.0,14.0,associate/junior college,0.0,42727.5,working full time,male,white
+2658,48.0,17.0,bachelor's,1.0,158424.85359,working full time,male,white
+2659,45.0,16.0,bachelor's,1.0,,working full time,male,white
+2661,48.0,19.0,graduate,1.0,158424.85359,temporarily not at work,female,white
+2663,26.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+2671,54.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+2672,36.0,19.0,graduate,1.0,158424.85359,working full time,female,white
+2674,62.0,12.0,high school,0.0,23737.5,working full time,female,white
+2677,46.0,14.0,high school,0.0,75960.0,temporarily not at work,female,white
+2678,43.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+2682,31.0,12.0,high school,0.0,7121.25,working full time,male,white
+2686,45.0,12.0,high school,0.0,42727.5,working full time,male,white
+2688,36.0,14.0,associate/junior college,0.0,42727.5,working full time,male,white
+2689,55.0,12.0,high school,0.0,28485.0,working full time,male,white
+2691,46.0,12.0,high school,0.0,88620.0,working full time,male,white
+2692,60.0,12.0,high school,0.0,20572.5,working full time,male,white
+2695,48.0,14.0,high school,0.0,,temporarily not at work,female,white
+2696,57.0,12.0,high school,0.0,,working full time,male,white
+2697,39.0,14.0,high school,0.0,63300.0,working full time,male,white
+2699,30.0,12.0,high school,0.0,20572.5,working full time,male,white
+2701,35.0,14.0,high school,0.0,88620.0,working full time,male,white
+2704,34.0,14.0,associate/junior college,0.0,42727.5,working full time,female,white
+2705,40.0,18.0,graduate,1.0,75960.0,working full time,female,white
+2708,25.0,15.0,high school,0.0,20572.5,working full time,female,white
+2709,61.0,12.0,high school,0.0,15033.75,working part time,female,white
+2711,42.0,17.0,bachelor's,1.0,34815.0,working full time,male,white
+2712,51.0,16.0,bachelor's,1.0,15033.75,working full time,female,white
+2717,60.0,10.0,high school,0.0,11868.75,working part time,female,white
+2718,26.0,12.0,high school,0.0,13451.25,working full time,male,white
+2720,39.0,13.0,high school,0.0,316.5,temporarily not at work,female,black
+2727,40.0,16.0,bachelor's,1.0,101280.0,working full time,female,white
+2733,48.0,12.0,high school,0.0,158424.85359,working full time,female,white
+2737,53.0,12.0,high school,0.0,75960.0,working full time,female,white
+2738,40.0,16.0,bachelor's,1.0,,working full time,male,white
+2739,37.0,12.0,high school,0.0,75960.0,working full time,female,white
+2741,63.0,12.0,high school,0.0,42727.5,working full time,male,white
+2742,49.0,16.0,bachelor's,1.0,42727.5,working part time,female,white
+2744,30.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+2745,61.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+2750,42.0,12.0,high school,0.0,88620.0,working full time,female,white
+2754,59.0,12.0,high school,0.0,63300.0,working full time,female,white
+2757,58.0,12.0,high school,0.0,63300.0,working part time,male,white
+2758,60.0,13.0,high school,0.0,63300.0,working full time,female,white
+2760,27.0,18.0,graduate,1.0,75960.0,temporarily not at work,female,white
+2762,45.0,14.0,high school,0.0,75960.0,working full time,male,white
+2763,59.0,16.0,bachelor's,1.0,34815.0,working part time,male,white
+2767,42.0,16.0,bachelor's,1.0,20572.5,working full time,female,white
+2769,31.0,16.0,associate/junior college,0.0,63300.0,working full time,male,white
+2770,48.0,16.0,bachelor's,1.0,34815.0,working full time,male,black
+2771,50.0,18.0,graduate,1.0,63300.0,temporarily not at work,female,white
+2772,41.0,12.0,high school,0.0,23737.5,working full time,female,white
+2775,30.0,12.0,high school,0.0,34815.0,working full time,male,white
+2776,43.0,18.0,bachelor's,1.0,42727.5,working full time,female,white
+2778,29.0,12.0,high school,0.0,42727.5,working full time,male,white
+2780,42.0,16.0,bachelor's,1.0,34815.0,temporarily not at work,female,white
+2781,42.0,12.0,high school,0.0,88620.0,working full time,female,white
+2782,45.0,14.0,high school,0.0,17407.5,working full time,female,white
+2783,49.0,16.0,bachelor's,1.0,75960.0,working full time,female,white
+2784,52.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+2787,48.0,17.0,bachelor's,1.0,,working full time,female,white
+2789,32.0,12.0,high school,0.0,34815.0,working full time,male,white
+2791,64.0,12.0,high school,0.0,23737.5,working full time,female,white
+2793,34.0,10.0,high school,0.0,17407.5,working full time,male,white
+2794,31.0,17.0,associate/junior college,0.0,88620.0,working full time,male,white
+2797,30.0,12.0,high school,0.0,52222.5,working full time,male,white
+2802,44.0,11.0,high school,0.0,,working full time,female,white
+2803,28.0,14.0,associate/junior college,0.0,34815.0,working full time,female,white
+2804,41.0,14.0,associate/junior college,0.0,52222.5,working full time,male,white
+2805,53.0,12.0,high school,0.0,101280.0,working full time,female,white
+2807,48.0,9.0,high school,0.0,158424.85359,working full time,male,white
+2810,28.0,13.0,high school,0.0,34815.0,working full time,male,white
+2811,40.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+2814,33.0,16.0,associate/junior college,0.0,52222.5,working full time,male,white
+2815,35.0,12.0,high school,0.0,10286.25,working full time,female,other
+2816,60.0,12.0,high school,0.0,13451.25,working part time,female,white
+2819,48.0,13.0,high school,0.0,63300.0,working full time,male,white
+2820,51.0,12.0,high school,0.0,42727.5,working full time,male,white
+2821,55.0,15.0,associate/junior college,0.0,158424.85359,working full time,female,white
+2822,46.0,14.0,high school,0.0,63300.0,working full time,female,white
+2824,38.0,12.0,high school,0.0,158424.85359,working full time,male,white
+2825,32.0,12.0,high school,0.0,17407.5,working full time,female,white
+2827,36.0,18.0,graduate,1.0,34815.0,temporarily not at work,female,white
+2829,26.0,15.0,associate/junior college,0.0,42727.5,working full time,female,white
+2830,34.0,20.0,graduate,1.0,52222.5,working full time,female,white
+2831,60.0,12.0,high school,0.0,,working full time,male,white
+2842,33.0,14.0,high school,0.0,4747.5,temporarily not at work,male,black
+2845,55.0,16.0,graduate,1.0,63300.0,working full time,male,white
+2848,32.0,12.0,high school,0.0,52222.5,working full time,male,white
+2851,60.0,12.0,high school,0.0,23737.5,working full time,male,white
+2854,61.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+2855,30.0,16.0,bachelor's,1.0,52222.5,temporarily not at work,female,white
+2858,63.0,8.0,less than high school,0.0,158424.85359,working full time,male,white
+2862,36.0,12.0,high school,0.0,52222.5,working full time,male,white
+2866,49.0,12.0,high school,0.0,42727.5,working full time,male,white
+2867,26.0,15.0,high school,0.0,23737.5,working full time,male,white
+2868,47.0,11.0,less than high school,0.0,52222.5,working full time,male,other
+2869,49.0,9.0,less than high school,0.0,63300.0,working full time,male,white
+2870,44.0,13.0,high school,0.0,20572.5,working part time,male,white
+2872,54.0,12.0,less than high school,0.0,52222.5,working full time,female,white
+2876,42.0,13.0,high school,0.0,17407.5,working full time,female,white
+2877,32.0,8.0,less than high school,0.0,4114.5,working part time,female,other
+2879,29.0,14.0,associate/junior college,0.0,20572.5,working part time,female,white
+2880,57.0,12.0,high school,0.0,,working full time,male,white
+2881,34.0,16.0,high school,0.0,23737.5,working full time,male,white
+2882,30.0,13.0,high school,0.0,88620.0,working full time,female,white
+2883,41.0,15.0,bachelor's,1.0,15033.75,working part time,female,white
+2885,54.0,14.0,high school,0.0,34815.0,working full time,female,white
+2886,25.0,13.0,high school,0.0,34815.0,working full time,female,other
+2888,58.0,6.0,less than high school,0.0,28485.0,working part time,female,black
+2890,45.0,13.0,high school,0.0,15033.75,working full time,male,other
+2892,27.0,12.0,high school,0.0,20572.5,working full time,female,white
+2894,49.0,13.0,high school,0.0,52222.5,working full time,female,black
+2895,60.0,20.0,graduate,1.0,101280.0,working full time,male,other
+2896,31.0,12.0,high school,0.0,13451.25,working full time,female,white
+2902,37.0,13.0,graduate,1.0,,working part time,female,white
+2904,51.0,12.0,high school,0.0,28485.0,working part time,female,black
+2905,44.0,8.0,less than high school,0.0,20572.5,working full time,male,other
+2909,40.0,12.0,high school,0.0,5697.0,working full time,male,white
+2913,34.0,12.0,less than high school,0.0,23737.5,working part time,female,other
+2916,43.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+2925,39.0,16.0,bachelor's,1.0,101280.0,working full time,female,white
+2926,56.0,12.0,high school,0.0,34815.0,working full time,female,white
+2930,58.0,14.0,associate/junior college,0.0,42727.5,working full time,male,white
+2932,26.0,16.0,bachelor's,1.0,63300.0,temporarily not at work,male,white
+2933,35.0,17.0,bachelor's,1.0,101280.0,working full time,male,white
+2938,26.0,11.0,less than high school,0.0,15033.75,working full time,male,white
+2940,30.0,14.0,high school,0.0,20572.5,working full time,male,other
+2942,55.0,11.0,high school,0.0,4747.5,working full time,male,black
+2945,40.0,12.0,high school,0.0,101280.0,working full time,male,white
+2946,26.0,12.0,high school,0.0,28485.0,working full time,female,other
+2951,57.0,18.0,graduate,1.0,52222.5,working full time,female,white
+2952,28.0,12.0,high school,0.0,28485.0,working full time,female,other
+2953,42.0,12.0,high school,0.0,20572.5,working full time,male,white
+2957,52.0,13.0,high school,0.0,52222.5,working full time,female,white
+2961,58.0,18.0,bachelor's,1.0,23737.5,working full time,female,
+2963,32.0,11.0,less than high school,0.0,10286.25,working full time,female,other
+2964,29.0,14.0,high school,0.0,34815.0,working full time,male,white
+2967,41.0,20.0,high school,0.0,11868.75,working part time,male,white
+2973,29.0,16.0,bachelor's,1.0,88620.0,working full time,female,other
+2974,41.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+2977,47.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+2978,50.0,12.0,less than high school,0.0,42727.5,working full time,male,other
+2980,46.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+2981,42.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+2986,32.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+2987,33.0,14.0,high school,0.0,42727.5,working full time,male,other
+2988,56.0,16.0,associate/junior college,0.0,158424.85359,working part time,female,white
+2989,51.0,14.0,associate/junior college,0.0,158424.85359,working full time,male,white
+2991,63.0,16.0,bachelor's,1.0,42727.5,working part time,female,white
+2992,32.0,17.0,bachelor's,1.0,7121.25,working full time,male,white
+2994,25.0,12.0,high school,0.0,23737.5,working part time,female,white
+2997,27.0,12.0,high school,0.0,1266.0,working full time,male,white
+2998,35.0,9.0,high school,0.0,23737.5,working full time,male,white
+3000,44.0,14.0,high school,0.0,13451.25,working part time,male,white
+3002,41.0,14.0,high school,0.0,42727.5,temporarily not at work,female,other
+3004,36.0,12.0,high school,0.0,20572.5,working full time,male,white
+3007,36.0,8.0,less than high school,0.0,42727.5,working part time,female,other
+3009,30.0,12.0,high school,0.0,,working part time,male,white
+3011,35.0,12.0,less than high school,0.0,88620.0,working full time,male,black
+3013,57.0,12.0,high school,0.0,42727.5,working full time,female,white
+3016,41.0,12.0,high school,0.0,13451.25,working part time,male,other
+3017,26.0,17.0,bachelor's,1.0,,working full time,female,other
+3018,54.0,4.0,less than high school,0.0,34815.0,working full time,male,other
+3020,48.0,16.0,bachelor's,1.0,42727.5,working full time,male,other
+3021,49.0,6.0,less than high school,0.0,34815.0,working full time,male,white
+3022,46.0,12.0,high school,0.0,42727.5,temporarily not at work,male,other
+3025,60.0,,less than high school,0.0,,working full time,male,white
+3026,49.0,18.0,graduate,1.0,158424.85359,working full time,female,other
+3027,41.0,16.0,bachelor's,1.0,88620.0,working full time,female,white
+3030,28.0,12.0,high school,0.0,63300.0,working full time,male,white
+3033,47.0,13.0,high school,0.0,28485.0,working full time,male,other
+3037,60.0,14.0,associate/junior college,0.0,52222.5,working full time,female,other
+3043,32.0,14.0,high school,0.0,13451.25,working part time,female,white
+3045,29.0,16.0,bachelor's,1.0,,working full time,female,white
+3049,34.0,11.0,less than high school,0.0,8703.75,working part time,female,other
+3051,45.0,8.0,less than high school,0.0,7121.25,working part time,female,other
+3056,26.0,14.0,associate/junior college,0.0,17407.5,working part time,female,other
+3058,62.0,13.0,high school,0.0,23737.5,working full time,male,white
+3065,46.0,12.0,high school,0.0,28485.0,working full time,female,other
+3069,62.0,17.0,bachelor's,1.0,42727.5,temporarily not at work,male,white
+3071,38.0,14.0,high school,0.0,20572.5,temporarily not at work,female,white
+3075,50.0,14.0,high school,0.0,7121.25,working part time,female,white
+3077,61.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+3081,51.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+3083,25.0,13.0,high school,0.0,28485.0,working full time,female,other
+3084,60.0,12.0,high school,0.0,42727.5,working full time,female,white
+3086,36.0,14.0,associate/junior college,0.0,4114.5,working part time,male,white
+3087,52.0,13.0,high school,0.0,158424.85359,temporarily not at work,female,white
+3090,27.0,15.0,high school,0.0,20572.5,working full time,male,white
+3091,59.0,14.0,high school,0.0,34815.0,working part time,female,white
+3092,33.0,12.0,high school,0.0,75960.0,working full time,female,white
+3093,62.0,14.0,associate/junior college,0.0,63300.0,working full time,male,white
+3099,48.0,12.0,high school,0.0,52222.5,temporarily not at work,female,white
+3101,42.0,16.0,bachelor's,1.0,,working full time,female,white
+3102,64.0,16.0,bachelor's,1.0,75960.0,working full time,female,white
+3104,52.0,18.0,graduate,1.0,101280.0,working full time,female,white
+3108,50.0,15.0,high school,0.0,,working full time,male,white
+3110,25.0,12.0,high school,0.0,23737.5,temporarily not at work,male,white
+3111,58.0,17.0,bachelor's,1.0,42727.5,working full time,male,white
+3112,35.0,14.0,associate/junior college,0.0,63300.0,working full time,female,white
+3114,44.0,14.0,associate/junior college,0.0,,working full time,male,black
+3116,33.0,19.0,graduate,1.0,42727.5,working full time,female,white
+3118,31.0,12.0,high school,0.0,10286.25,working part time,female,other
+3119,37.0,14.0,associate/junior college,0.0,,temporarily not at work,male,
+3120,53.0,17.0,high school,0.0,,temporarily not at work,female,white
+3124,46.0,18.0,graduate,1.0,23737.5,working full time,female,white
+3125,60.0,16.0,bachelor's,1.0,28485.0,working part time,female,white
+3126,25.0,11.0,less than high school,0.0,17407.5,temporarily not at work,female,white
+3129,45.0,19.0,graduate,1.0,34815.0,working part time,female,white
+3130,47.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+3139,43.0,15.0,associate/junior college,0.0,63300.0,working full time,male,white
+3140,50.0,18.0,graduate,1.0,158424.85359,working full time,male,white
+3146,45.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+3147,54.0,14.0,high school,0.0,8703.75,working part time,female,white
+3153,63.0,17.0,bachelor's,1.0,52222.5,working full time,female,white
+3158,51.0,17.0,high school,0.0,63300.0,working full time,female,white
+3163,42.0,9.0,high school,0.0,15033.75,working full time,female,white
+3164,31.0,12.0,high school,0.0,13451.25,working full time,female,white
+3166,33.0,14.0,high school,0.0,28485.0,working part time,male,white
+3168,32.0,16.0,bachelor's,1.0,20572.5,working full time,male,white
+3170,50.0,12.0,high school,0.0,20572.5,temporarily not at work,female,white
+3173,38.0,10.0,high school,0.0,17407.5,working part time,male,white
+3174,33.0,14.0,associate/junior college,0.0,20572.5,working full time,female,white
+3176,43.0,14.0,high school,0.0,34815.0,temporarily not at work,female,white
+3180,34.0,15.0,high school,0.0,8703.75,temporarily not at work,male,white
+3181,38.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+3182,42.0,13.0,high school,0.0,101280.0,working full time,male,other
+3184,47.0,14.0,high school,0.0,63300.0,working full time,female,white
+3185,26.0,12.0,high school,0.0,23737.5,working full time,male,white
+3189,35.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+3194,38.0,12.0,high school,0.0,158424.85359,working full time,male,white
+3196,57.0,12.0,less than high school,0.0,,working full time,female,white
+3200,40.0,20.0,graduate,1.0,63300.0,working part time,female,white
+3202,49.0,18.0,graduate,1.0,,working full time,male,white
+3203,36.0,16.0,bachelor's,1.0,158424.85359,working part time,female,white
+3204,35.0,14.0,high school,0.0,28485.0,working part time,female,other
+3205,42.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+3206,39.0,14.0,high school,0.0,23737.5,working full time,male,white
+3208,45.0,16.0,bachelor's,1.0,28485.0,working full time,male,white
+3211,45.0,17.0,bachelor's,1.0,158424.85359,working full time,male,white
+3215,28.0,12.0,high school,0.0,28485.0,working full time,male,white
+3216,64.0,20.0,graduate,1.0,158424.85359,working full time,male,white
+3218,35.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+3220,46.0,14.0,high school,0.0,,working full time,male,white
+3221,63.0,14.0,high school,0.0,75960.0,working part time,female,white
+3223,46.0,14.0,high school,0.0,28485.0,working full time,male,white
+3225,46.0,20.0,bachelor's,1.0,75960.0,working full time,female,white
+3229,38.0,18.0,bachelor's,1.0,42727.5,working full time,female,white
+3231,38.0,20.0,graduate,1.0,158424.85359,working part time,female,white
+3232,60.0,20.0,graduate,1.0,75960.0,working full time,male,white
+3234,36.0,11.0,high school,0.0,28485.0,working full time,female,white
+3239,39.0,9.0,less than high school,0.0,42727.5,working full time,male,other
+3243,31.0,11.0,high school,0.0,52222.5,working full time,male,white
+3244,57.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+3245,44.0,13.0,high school,0.0,42727.5,working full time,male,white
+3248,61.0,20.0,graduate,1.0,158424.85359,temporarily not at work,female,black
+3249,31.0,12.0,high school,0.0,1266.0,working part time,male,white
+3251,40.0,11.0,high school,0.0,11868.75,working full time,female,white
+3254,42.0,17.0,bachelor's,1.0,,working part time,female,white
+3255,64.0,12.0,high school,0.0,20572.5,working full time,female,white
+3257,45.0,12.0,high school,0.0,42727.5,working full time,male,white
+3258,51.0,12.0,high school,0.0,20572.5,working full time,male,white
+3260,46.0,12.0,high school,0.0,15033.75,working full time,female,white
+3262,38.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+3263,60.0,15.0,high school,0.0,42727.5,working full time,female,white
+3264,62.0,14.0,high school,0.0,52222.5,working full time,male,white
+3267,25.0,0.0,less than high school,0.0,10286.25,working part time,female,white
+3268,49.0,12.0,high school,0.0,42727.5,working full time,male,white
+3269,58.0,14.0,associate/junior college,0.0,17407.5,working full time,male,white
+3271,28.0,8.0,less than high school,0.0,28485.0,working full time,female,white
+3277,56.0,13.0,high school,0.0,15033.75,working full time,female,white
+3283,39.0,16.0,associate/junior college,0.0,8703.75,working full time,female,white
+3287,26.0,12.0,high school,0.0,34815.0,working full time,male,white
+3288,39.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+3291,48.0,16.0,bachelor's,1.0,42727.5,working full time,male,white
+3292,45.0,18.0,bachelor's,1.0,75960.0,working full time,female,white
+3294,50.0,19.0,graduate,1.0,101280.0,working full time,female,white
+3295,36.0,12.0,high school,0.0,20572.5,working full time,female,black
+3296,26.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+3298,39.0,12.0,high school,0.0,20572.5,working full time,male,black
+3300,28.0,16.0,bachelor's,1.0,63300.0,working full time,female,white
+3302,25.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+3303,51.0,12.0,high school,0.0,15033.75,working full time,female,other
+3305,29.0,8.0,less than high school,0.0,10286.25,working full time,female,black
+3307,46.0,16.0,associate/junior college,0.0,23737.5,working full time,female,white
+3309,44.0,20.0,graduate,1.0,75960.0,working full time,female,white
+3310,49.0,14.0,associate/junior college,0.0,52222.5,working full time,female,white
+3311,48.0,16.0,bachelor's,1.0,101280.0,working full time,male,white
+3312,31.0,17.0,bachelor's,1.0,42727.5,working full time,female,white
+3313,38.0,12.0,high school,0.0,17407.5,working full time,female,white
+3314,45.0,20.0,graduate,1.0,75960.0,working full time,female,white
+3315,34.0,15.0,associate/junior college,0.0,23737.5,working full time,male,white
+3316,55.0,11.0,less than high school,0.0,42727.5,working full time,male,white
+3317,59.0,16.0,bachelor's,1.0,15033.75,working full time,female,black
+3318,56.0,13.0,high school,0.0,34815.0,working full time,male,white
+3319,47.0,12.0,high school,0.0,52222.5,working full time,male,white
+3320,47.0,12.0,high school,0.0,17407.5,working part time,male,black
+3323,30.0,12.0,high school,0.0,42727.5,temporarily not at work,female,white
+3324,49.0,12.0,high school,0.0,34815.0,working full time,male,white
+3325,38.0,14.0,high school,0.0,15033.75,working full time,female,white
+3326,57.0,18.0,bachelor's,1.0,10286.25,working part time,female,white
+3331,27.0,16.0,bachelor's,1.0,23737.5,working full time,male,white
+3335,40.0,18.0,graduate,1.0,52222.5,working full time,female,white
+3336,61.0,13.0,high school,0.0,42727.5,working full time,female,white
+3337,36.0,11.0,less than high school,0.0,28485.0,working full time,male,white
+3339,35.0,14.0,high school,0.0,17407.5,working part time,male,white
+3341,56.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+3344,48.0,14.0,high school,0.0,158424.85359,working full time,female,white
+3345,33.0,18.0,bachelor's,1.0,42727.5,working full time,female,white
+3346,56.0,14.0,high school,0.0,42727.5,working full time,male,white
+3347,40.0,18.0,bachelor's,1.0,34815.0,working full time,male,white
+3348,60.0,13.0,high school,0.0,34815.0,working full time,male,white
+3350,62.0,7.0,less than high school,0.0,17407.5,working part time,female,white
+3355,59.0,12.0,high school,0.0,42727.5,working full time,female,white
+3356,62.0,17.0,bachelor's,1.0,52222.5,working part time,male,white
+3357,32.0,12.0,high school,0.0,63300.0,working full time,male,white
+3359,38.0,12.0,high school,0.0,63300.0,working full time,male,white
+3363,42.0,16.0,bachelor's,1.0,158424.85359,working part time,female,white
+3365,63.0,14.0,associate/junior college,0.0,52222.5,working full time,male,white
+3367,35.0,17.0,graduate,1.0,,working full time,male,white
+3368,39.0,16.0,bachelor's,1.0,42727.5,working full time,female,white
+3369,40.0,13.0,high school,0.0,63300.0,working full time,male,white
+3377,53.0,14.0,associate/junior college,0.0,20572.5,working full time,female,white
+3379,42.0,14.0,associate/junior college,0.0,75960.0,working full time,female,white
+3384,27.0,14.0,high school,0.0,52222.5,working full time,male,white
+3385,29.0,20.0,graduate,1.0,42727.5,working full time,female,white
+3387,41.0,12.0,high school,0.0,63300.0,working full time,male,white
+3389,64.0,12.0,high school,0.0,158424.85359,working full time,male,white
+3392,35.0,14.0,high school,0.0,52222.5,working full time,female,white
+3394,42.0,12.0,high school,0.0,11868.75,working full time,male,white
+3396,39.0,15.0,high school,0.0,88620.0,working full time,male,white
+3397,31.0,12.0,high school,0.0,10286.25,working full time,male,white
+3402,47.0,12.0,less than high school,0.0,1266.0,working part time,female,white
+3403,45.0,14.0,associate/junior college,0.0,28485.0,working full time,male,white
+3404,50.0,16.0,bachelor's,1.0,52222.5,working full time,female,white
+3406,55.0,17.0,bachelor's,1.0,17407.5,working full time,female,white
+3411,40.0,15.0,high school,0.0,23737.5,working full time,male,white
+3413,33.0,15.0,high school,0.0,75960.0,working full time,male,white
+3414,43.0,14.0,graduate,1.0,63300.0,working full time,female,white
+3415,61.0,14.0,associate/junior college,0.0,23737.5,working full time,female,white
+3422,33.0,3.0,less than high school,0.0,1266.0,working part time,male,other
+3423,55.0,15.0,associate/junior college,0.0,28485.0,working full time,female,white
+3431,49.0,12.0,high school,0.0,28485.0,working full time,male,white
+3433,26.0,12.0,high school,0.0,,working part time,female,other
+3434,25.0,13.0,high school,0.0,17407.5,working full time,female,black
+3435,54.0,16.0,bachelor's,1.0,88620.0,working full time,male,white
+3436,50.0,12.0,high school,0.0,28485.0,working full time,male,white
+3437,38.0,14.0,bachelor's,1.0,20572.5,working full time,female,black
+3440,54.0,12.0,high school,0.0,88620.0,working full time,male,white
+3444,29.0,11.0,less than high school,0.0,34815.0,temporarily not at work,male,black
+3450,51.0,12.0,high school,0.0,20572.5,working full time,male,white
+3452,33.0,19.0,graduate,1.0,75960.0,working full time,female,white
+3454,49.0,12.0,high school,0.0,52222.5,working full time,male,white
+3456,40.0,18.0,bachelor's,1.0,28485.0,working full time,female,white
+3457,33.0,14.0,associate/junior college,0.0,42727.5,working full time,female,white
+3458,55.0,12.0,high school,0.0,63300.0,working full time,male,black
+3464,51.0,11.0,less than high school,0.0,75960.0,working full time,male,white
+3466,28.0,13.0,high school,0.0,,working full time,female,white
+3467,34.0,9.0,less than high school,0.0,,temporarily not at work,male,white
+3468,29.0,15.0,high school,0.0,34815.0,working full time,male,white
+3469,40.0,16.0,bachelor's,1.0,13451.25,working full time,female,black
+3470,33.0,5.0,less than high school,0.0,17407.5,working full time,female,black
+3473,59.0,5.0,less than high school,0.0,23737.5,working full time,female,black
+3474,28.0,12.0,high school,0.0,,working full time,female,black
+3476,42.0,18.0,graduate,1.0,,working full time,female,white
+3481,27.0,15.0,high school,0.0,28485.0,working full time,female,black
+3482,46.0,12.0,high school,0.0,34815.0,working full time,female,black
+3488,31.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+3490,30.0,16.0,bachelor's,1.0,42727.5,working part time,female,white
+3494,36.0,18.0,graduate,1.0,75960.0,working full time,male,white
+3495,57.0,12.0,high school,0.0,34815.0,working full time,female,white
+3497,25.0,12.0,high school,0.0,34815.0,working full time,female,white
+3498,42.0,12.0,high school,0.0,63300.0,working full time,male,white
+3499,29.0,14.0,associate/junior college,0.0,88620.0,working full time,male,white
+3506,54.0,16.0,bachelor's,1.0,34815.0,working full time,female,white
+3507,53.0,16.0,bachelor's,1.0,158424.85359,working full time,male,white
+3512,27.0,18.0,graduate,1.0,28485.0,working full time,male,white
+3513,51.0,20.0,graduate,1.0,63300.0,working full time,male,white
+3516,38.0,20.0,graduate,1.0,75960.0,working full time,female,white
+3517,25.0,14.0,associate/junior college,0.0,42727.5,working full time,male,white
+3521,58.0,12.0,high school,0.0,42727.5,working full time,male,white
+3522,30.0,16.0,bachelor's,1.0,63300.0,working full time,male,white
+3524,29.0,12.0,high school,0.0,13451.25,working full time,male,white
+3525,29.0,12.0,high school,0.0,52222.5,working full time,female,white
+3530,60.0,12.0,high school,0.0,42727.5,working full time,female,white
+3531,64.0,16.0,bachelor's,1.0,158424.85359,working full time,female,white
+3532,61.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+3534,49.0,16.0,bachelor's,1.0,28485.0,working full time,male,white
+3535,50.0,12.0,high school,0.0,23737.5,working full time,male,white
+3542,29.0,19.0,graduate,1.0,42727.5,working full time,female,white
+3543,32.0,15.0,associate/junior college,0.0,88620.0,working full time,male,white
+3544,49.0,17.0,graduate,1.0,101280.0,working full time,female,white
+3545,50.0,20.0,graduate,1.0,63300.0,working full time,male,white
+3546,32.0,16.0,bachelor's,1.0,17407.5,working full time,male,black
+3547,52.0,14.0,high school,0.0,34815.0,working full time,male,black
+3549,43.0,16.0,bachelor's,1.0,42727.5,working full time,male,black
+3551,35.0,19.0,less than high school,0.0,17407.5,working full time,male,black
+3552,31.0,13.0,high school,0.0,28485.0,working full time,male,black
+3557,49.0,14.0,high school,0.0,42727.5,working full time,male,black
+3558,33.0,12.0,high school,0.0,23737.5,temporarily not at work,male,black
+3560,36.0,12.0,high school,0.0,101280.0,working full time,male,black
+3562,43.0,13.0,high school,0.0,,working full time,male,black
+3563,30.0,12.0,high school,0.0,17407.5,working full time,male,black
+3569,32.0,,less than high school,0.0,316.5,working full time,female,black
+3571,56.0,15.0,less than high school,0.0,158424.85359,working full time,male,black
+3573,48.0,12.0,high school,0.0,52222.5,working full time,male,black
+3574,58.0,16.0,bachelor's,1.0,158424.85359,temporarily not at work,male,black
+3575,35.0,16.0,high school,0.0,34815.0,working full time,male,black
+3576,33.0,12.0,less than high school,0.0,316.5,working part time,male,black
+3577,43.0,16.0,graduate,1.0,158424.85359,working full time,male,black
+3579,28.0,16.0,bachelor's,1.0,52222.5,working full time,male,black
+3581,35.0,12.0,high school,0.0,158424.85359,working full time,male,black
+3582,36.0,16.0,bachelor's,1.0,42727.5,working full time,female,black
+3587,60.0,12.0,high school,0.0,17407.5,working full time,male,black
+3591,34.0,16.0,bachelor's,1.0,8703.75,working full time,male,black
+3592,30.0,18.0,graduate,1.0,63300.0,working full time,male,black
+3597,37.0,16.0,bachelor's,1.0,34815.0,working full time,male,black
+3598,42.0,16.0,bachelor's,1.0,42727.5,working full time,male,black
+3600,52.0,12.0,high school,0.0,42727.5,working full time,male,black
+3601,46.0,14.0,high school,0.0,34815.0,working full time,male,black
+3604,26.0,13.0,high school,0.0,17407.5,working part time,male,black
+3605,29.0,16.0,bachelor's,1.0,42727.5,working part time,male,black
+3607,46.0,13.0,associate/junior college,0.0,158424.85359,working part time,male,black
+3611,42.0,16.0,bachelor's,1.0,158424.85359,working full time,male,black
+3613,56.0,20.0,bachelor's,1.0,42727.5,working part time,male,black
+3614,58.0,12.0,high school,0.0,52222.5,working full time,male,black
+3616,39.0,12.0,high school,0.0,2848.5,working full time,male,black
+3617,40.0,20.0,graduate,1.0,158424.85359,working full time,male,black
+3619,55.0,15.0,associate/junior college,0.0,63300.0,working part time,male,black
+3621,26.0,16.0,bachelor's,1.0,63300.0,working full time,male,black
+3622,52.0,12.0,high school,0.0,8703.75,working full time,male,black
+3623,45.0,13.0,high school,0.0,52222.5,working full time,male,black
+3624,26.0,14.0,high school,0.0,34815.0,working full time,female,black
+3627,60.0,12.0,high school,0.0,20572.5,working full time,male,black
+3630,46.0,16.0,bachelor's,1.0,34815.0,working full time,male,black
+3631,32.0,12.0,high school,0.0,28485.0,working full time,male,black
+3633,59.0,16.0,bachelor's,1.0,101280.0,working full time,male,black
+3634,48.0,14.0,high school,0.0,42727.5,working full time,male,black
+3636,36.0,20.0,graduate,1.0,158424.85359,working full time,male,black
+3637,27.0,17.0,bachelor's,1.0,23737.5,working full time,female,black
+3642,41.0,14.0,less than high school,0.0,42727.5,working full time,female,black
+3644,38.0,16.0,bachelor's,1.0,,temporarily not at work,female,black
+3646,29.0,16.0,bachelor's,1.0,15033.75,working full time,female,black
+3647,28.0,15.0,associate/junior college,0.0,20572.5,working full time,female,black
+3650,42.0,12.0,high school,0.0,23737.5,working part time,male,other
+3651,42.0,20.0,bachelor's,1.0,42727.5,working full time,female,black
+3653,36.0,12.0,high school,0.0,34815.0,working full time,female,black
+3655,29.0,14.0,less than high school,0.0,23737.5,working full time,female,black
+3656,30.0,13.0,high school,0.0,75960.0,working part time,female,black
+3659,54.0,18.0,graduate,1.0,52222.5,working full time,female,black
+3660,64.0,19.0,graduate,1.0,42727.5,temporarily not at work,female,black
+3661,26.0,15.0,bachelor's,1.0,52222.5,working full time,female,black
+3665,54.0,14.0,high school,0.0,42727.5,working full time,female,black
+3666,42.0,13.0,high school,0.0,52222.5,temporarily not at work,female,black
+3667,64.0,14.0,high school,0.0,17407.5,working full time,female,black
+3669,58.0,18.0,graduate,1.0,34815.0,working full time,female,black
+3670,42.0,16.0,graduate,1.0,28485.0,working full time,female,black
+3671,26.0,12.0,high school,0.0,13451.25,working part time,female,black
+3672,45.0,16.0,graduate,1.0,88620.0,working full time,female,black
+3673,29.0,13.0,high school,0.0,,working full time,female,black
+3676,32.0,14.0,graduate,1.0,52222.5,working full time,female,black
+3677,35.0,16.0,bachelor's,1.0,17407.5,working full time,female,black
+3680,45.0,14.0,high school,0.0,34815.0,working full time,female,black
+3681,46.0,15.0,high school,0.0,34815.0,working part time,female,black
+3682,57.0,14.0,associate/junior college,0.0,,working part time,female,black
+3684,50.0,18.0,graduate,1.0,42727.5,temporarily not at work,female,black
+3686,58.0,14.0,high school,0.0,42727.5,working full time,female,black
+3687,63.0,20.0,graduate,1.0,88620.0,working full time,female,black
+3688,47.0,18.0,graduate,1.0,63300.0,working part time,female,black
+3690,38.0,14.0,associate/junior college,0.0,52222.5,working full time,female,black
+3691,34.0,15.0,high school,0.0,52222.5,working full time,female,black
+3694,26.0,12.0,less than high school,0.0,20572.5,working full time,female,black
+3695,42.0,13.0,high school,0.0,28485.0,working full time,female,black
+3698,41.0,14.0,high school,0.0,52222.5,working full time,female,black
+3699,33.0,12.0,high school,0.0,28485.0,working full time,female,black
+3702,25.0,12.0,high school,0.0,28485.0,working full time,female,black
+3704,26.0,14.0,high school,0.0,34815.0,working full time,female,black
+3708,39.0,16.0,bachelor's,1.0,63300.0,working full time,female,black
+3710,36.0,12.0,high school,0.0,23737.5,working full time,female,black
+3711,28.0,16.0,graduate,1.0,34815.0,working full time,female,black
+3712,33.0,16.0,bachelor's,1.0,42727.5,working full time,female,black
+3713,61.0,12.0,high school,0.0,52222.5,working full time,female,black
+3715,31.0,14.0,high school,0.0,34815.0,working full time,female,black
+3716,25.0,15.0,high school,0.0,316.5,temporarily not at work,female,black
+3717,33.0,13.0,high school,0.0,13451.25,working part time,female,black
+3719,62.0,14.0,high school,0.0,34815.0,working full time,female,black
+3722,34.0,15.0,high school,0.0,17407.5,working full time,female,black
+3725,47.0,13.0,high school,0.0,11868.75,working full time,female,black
+3727,35.0,16.0,bachelor's,1.0,42727.5,working full time,female,black
+3728,32.0,20.0,less than high school,0.0,5697.0,working part time,female,black
+3729,39.0,14.0,high school,0.0,23737.5,working full time,female,black
+3730,40.0,14.0,high school,0.0,13451.25,working part time,female,black
+3731,37.0,12.0,high school,0.0,20572.5,temporarily not at work,female,black
+3734,52.0,18.0,associate/junior college,0.0,,working part time,female,black
+3738,33.0,16.0,bachelor's,1.0,7121.25,working full time,female,black
+3739,33.0,20.0,graduate,1.0,158424.85359,temporarily not at work,female,black
+3740,48.0,14.0,high school,0.0,15033.75,working full time,female,black
+3742,30.0,20.0,graduate,1.0,42727.5,working full time,female,black
+3744,46.0,20.0,bachelor's,1.0,7121.25,working full time,male,white
+3745,49.0,14.0,high school,0.0,63300.0,working full time,male,other
+3747,41.0,14.0,high school,0.0,52222.5,working full time,male,white
+3748,56.0,18.0,graduate,1.0,88620.0,working full time,male,white
+3752,29.0,16.0,bachelor's,1.0,52222.5,working part time,male,other
+3754,33.0,8.0,less than high school,0.0,23737.5,working full time,male,white
+3755,25.0,17.0,bachelor's,1.0,28485.0,working full time,male,other
+3756,56.0,16.0,bachelor's,1.0,75960.0,working full time,male,white
+3759,32.0,17.0,graduate,1.0,52222.5,working full time,male,white
+3760,27.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+3761,33.0,14.0,high school,0.0,63300.0,working full time,male,white
+3762,37.0,13.0,associate/junior college,0.0,11868.75,working part time,male,white
+3766,34.0,13.0,high school,0.0,,working full time,male,white
+3767,32.0,17.0,bachelor's,1.0,63300.0,working full time,male,white
+3768,62.0,20.0,graduate,1.0,42727.5,temporarily not at work,male,white
+3771,34.0,14.0,associate/junior college,0.0,52222.5,working full time,male,other
+3773,45.0,15.0,associate/junior college,0.0,52222.5,working full time,male,white
+3776,32.0,13.0,high school,0.0,34815.0,working full time,male,other
+3778,59.0,12.0,high school,0.0,101280.0,working full time,male,other
+3779,45.0,12.0,high school,0.0,17407.5,working full time,male,white
+3780,54.0,14.0,high school,0.0,75960.0,working full time,male,white
+3781,42.0,12.0,high school,0.0,28485.0,working full time,male,white
+3782,28.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+3783,35.0,14.0,associate/junior college,0.0,75960.0,working full time,male,black
+3784,31.0,18.0,associate/junior college,0.0,20572.5,working part time,male,white
+3787,33.0,12.0,high school,0.0,34815.0,working full time,male,
+3788,34.0,12.0,high school,0.0,63300.0,working full time,male,black
+3790,40.0,13.0,high school,0.0,88620.0,working full time,male,white
+3792,52.0,15.0,high school,0.0,158424.85359,working full time,male,white
+3793,40.0,14.0,high school,0.0,42727.5,working full time,male,white
+3796,26.0,12.0,high school,0.0,52222.5,working full time,male,other
+3798,43.0,12.0,less than high school,0.0,20572.5,working full time,male,white
+3801,37.0,20.0,graduate,1.0,20572.5,working full time,male,other
+3802,54.0,17.0,bachelor's,1.0,20572.5,working full time,male,white
+3803,41.0,16.0,associate/junior college,0.0,88620.0,working full time,male,white
+3804,26.0,12.0,,,7121.25,working part time,male,white
+3805,45.0,11.0,high school,0.0,75960.0,working full time,male,white
+3806,47.0,18.0,graduate,1.0,88620.0,working full time,male,white
+3808,31.0,15.0,associate/junior college,0.0,3481.5,working full time,male,white
+3809,55.0,5.0,less than high school,0.0,42727.5,working full time,male,black
+3810,26.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+3812,25.0,14.0,high school,0.0,42727.5,working full time,male,white
+3813,40.0,18.0,graduate,1.0,101280.0,working full time,male,white
+3819,32.0,,less than high school,0.0,3481.5,temporarily not at work,male,other
+3821,41.0,19.0,graduate,1.0,158424.85359,working full time,male,white
+3822,26.0,2.0,less than high school,0.0,4747.5,working part time,male,black
+3824,64.0,12.0,less than high school,0.0,52222.5,working part time,male,other
+3827,62.0,,less than high school,0.0,158424.85359,working full time,male,white
+3828,29.0,,less than high school,0.0,63300.0,working full time,male,
+3829,53.0,14.0,high school,0.0,17407.5,temporarily not at work,male,other
+3830,57.0,17.0,bachelor's,1.0,88620.0,working full time,male,white
+3831,40.0,12.0,high school,0.0,42727.5,working full time,male,white
+3832,27.0,16.0,bachelor's,1.0,34815.0,working full time,male,white
+3833,43.0,13.0,high school,0.0,88620.0,working part time,male,white
+3834,38.0,14.0,high school,0.0,75960.0,working full time,male,black
+3835,26.0,,less than high school,0.0,20572.5,working part time,male,white
+3836,61.0,6.0,less than high school,0.0,20572.5,working full time,male,white
+3839,35.0,15.0,high school,0.0,28485.0,working full time,male,other
+3840,40.0,20.0,graduate,1.0,158424.85359,working full time,male,other
+3841,49.0,16.0,bachelor's,1.0,52222.5,working full time,male,white
+3843,30.0,12.0,high school,0.0,42727.5,working part time,female,white
+3847,35.0,12.0,high school,0.0,,working part time,female,white
+3849,56.0,17.0,bachelor's,1.0,20572.5,working full time,female,white
+3852,54.0,16.0,bachelor's,1.0,158424.85359,working part time,female,other
+3855,47.0,12.0,less than high school,0.0,20572.5,working full time,female,other
+3856,30.0,12.0,high school,0.0,34815.0,temporarily not at work,female,black
+3857,61.0,12.0,high school,0.0,7121.25,working part time,female,white
+3859,63.0,12.0,high school,0.0,158424.85359,working part time,female,white
+3862,47.0,12.0,high school,0.0,20572.5,working part time,female,other
+3863,44.0,13.0,high school,0.0,52222.5,working full time,female,white
+3864,47.0,12.0,high school,0.0,316.5,working part time,female,other
+3866,27.0,16.0,associate/junior college,0.0,63300.0,working full time,female,white
+3867,48.0,16.0,bachelor's,1.0,17407.5,working full time,female,white
+3870,46.0,14.0,associate/junior college,0.0,28485.0,working full time,female,white
+3875,43.0,14.0,high school,0.0,42727.5,working full time,female,black
+3876,37.0,16.0,bachelor's,1.0,28485.0,temporarily not at work,female,other
+3878,26.0,18.0,graduate,1.0,158424.85359,working full time,female,white
+3879,29.0,14.0,high school,0.0,52222.5,working full time,female,other
+3880,34.0,16.0,bachelor's,1.0,20572.5,working full time,female,white
+3881,47.0,14.0,bachelor's,1.0,23737.5,working part time,female,white
+3883,25.0,17.0,bachelor's,1.0,28485.0,working full time,female,white
+3884,42.0,18.0,graduate,1.0,42727.5,working full time,female,white
+3886,42.0,12.0,high school,0.0,101280.0,working full time,female,white
+3890,34.0,14.0,associate/junior college,0.0,42727.5,temporarily not at work,female,other
+3891,45.0,15.0,high school,0.0,158424.85359,working full time,female,white
+3895,33.0,16.0,bachelor's,1.0,13451.25,working full time,female,
+3896,39.0,13.0,high school,0.0,15033.75,working part time,female,white
+3902,50.0,12.0,high school,0.0,52222.5,working part time,female,white
+3906,43.0,17.0,graduate,1.0,34815.0,working full time,female,white
+3909,37.0,17.0,bachelor's,1.0,,working full time,female,white
+3912,35.0,20.0,graduate,1.0,63300.0,working full time,female,white
+3913,30.0,17.0,bachelor's,1.0,,temporarily not at work,female,white
+3914,45.0,16.0,bachelor's,1.0,28485.0,working full time,female,white
+3916,31.0,14.0,associate/junior college,0.0,34815.0,working full time,female,other
+3917,50.0,17.0,graduate,1.0,34815.0,working full time,female,white
+3918,48.0,12.0,high school,0.0,28485.0,working full time,female,white
+3920,61.0,12.0,high school,0.0,28485.0,working full time,female,white
+3921,35.0,14.0,high school,0.0,28485.0,working full time,female,white
+3922,56.0,12.0,high school,0.0,28485.0,working full time,female,white
+3924,36.0,13.0,high school,0.0,34815.0,working full time,female,black
+3925,30.0,12.0,high school,0.0,13451.25,working full time,female,white
+3926,32.0,14.0,high school,0.0,20572.5,working full time,female,white
+3927,28.0,12.0,high school,0.0,17407.5,working full time,female,white
+3928,28.0,13.0,high school,0.0,7121.25,working full time,female,white
+3930,40.0,14.0,high school,0.0,75960.0,working part time,female,black
+3931,62.0,13.0,high school,0.0,42727.5,working full time,female,white
+3933,37.0,16.0,high school,0.0,34815.0,working full time,female,white
+3935,52.0,16.0,associate/junior college,0.0,,working full time,female,black
+3936,36.0,13.0,high school,0.0,101280.0,working full time,female,other
+3939,57.0,15.0,associate/junior college,0.0,52222.5,working full time,female,white
+3940,62.0,14.0,high school,0.0,42727.5,working full time,female,black
+3942,25.0,14.0,associate/junior college,0.0,34815.0,working full time,female,white
+3944,38.0,19.0,graduate,1.0,88620.0,working part time,female,black
+3948,46.0,16.0,bachelor's,1.0,52222.5,working full time,male,other
+3950,42.0,17.0,bachelor's,1.0,158424.85359,working full time,male,other
+3952,64.0,14.0,high school,0.0,,working full time,male,other
+3955,61.0,20.0,graduate,1.0,158424.85359,working full time,male,other
+3956,30.0,18.0,graduate,1.0,52222.5,working full time,male,other
+3960,44.0,20.0,graduate,1.0,63300.0,working full time,male,other
+3961,56.0,18.0,graduate,1.0,75960.0,working full time,male,other
+3966,31.0,18.0,graduate,1.0,63300.0,working full time,male,other
+3969,39.0,16.0,bachelor's,1.0,101280.0,working full time,male,other
+3973,27.0,16.0,bachelor's,1.0,158424.85359,working full time,female,other
+3974,42.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+3975,35.0,14.0,associate/junior college,0.0,42727.5,working full time,male,other
+3977,35.0,16.0,bachelor's,1.0,75960.0,working full time,male,other
+3978,36.0,16.0,bachelor's,1.0,75960.0,working full time,male,other
+3981,43.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+3982,47.0,15.0,high school,0.0,52222.5,working full time,male,other
+3984,45.0,16.0,bachelor's,1.0,75960.0,working full time,male,other
+3986,45.0,16.0,bachelor's,1.0,75960.0,working full time,male,other
+3987,38.0,18.0,bachelor's,1.0,63300.0,working full time,male,other
+3988,58.0,15.0,bachelor's,1.0,75960.0,working full time,male,other
+3990,44.0,16.0,bachelor's,1.0,34815.0,working full time,male,other
+3992,54.0,20.0,graduate,1.0,63300.0,working full time,male,other
+3993,33.0,20.0,graduate,1.0,34815.0,temporarily not at work,male,other
+3994,49.0,20.0,bachelor's,1.0,75960.0,working full time,male,other
+3997,61.0,16.0,associate/junior college,0.0,63300.0,working full time,male,other
+3999,39.0,18.0,graduate,1.0,158424.85359,working full time,male,other
+4000,32.0,16.0,graduate,1.0,158424.85359,working full time,male,other
+4001,50.0,20.0,graduate,1.0,63300.0,working full time,male,other
+4003,30.0,20.0,graduate,1.0,42727.5,temporarily not at work,male,other
+4004,37.0,12.0,high school,0.0,34815.0,working full time,male,other
+4006,34.0,18.0,graduate,1.0,158424.85359,working full time,male,other
+4007,42.0,12.0,high school,0.0,23737.5,working full time,male,other
+4009,33.0,16.0,graduate,1.0,75960.0,working full time,male,other
+4010,31.0,16.0,bachelor's,1.0,63300.0,working full time,male,other
+4012,50.0,18.0,graduate,1.0,63300.0,working full time,male,other
+4014,53.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+4015,42.0,15.0,bachelor's,1.0,63300.0,working full time,male,other
+4016,44.0,16.0,bachelor's,1.0,88620.0,working full time,male,other
+4017,38.0,16.0,graduate,1.0,75960.0,working full time,male,other
+4019,35.0,17.0,high school,0.0,52222.5,working full time,male,other
+4020,53.0,14.0,high school,0.0,63300.0,working full time,male,other
+4021,57.0,14.0,associate/junior college,0.0,42727.5,working full time,male,other
+4024,54.0,18.0,graduate,1.0,158424.85359,working full time,male,other
+4028,32.0,4.0,less than high school,0.0,17407.5,working full time,male,other
+4029,36.0,12.0,high school,0.0,63300.0,working full time,male,other
+4030,57.0,18.0,graduate,1.0,158424.85359,working full time,male,other
+4032,40.0,16.0,graduate,1.0,158424.85359,working full time,male,other
+4034,37.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+4035,26.0,12.0,high school,0.0,17407.5,working full time,male,other
+4037,31.0,20.0,bachelor's,1.0,42727.5,working full time,male,other
+4039,37.0,18.0,graduate,1.0,75960.0,working full time,male,other
+4041,51.0,16.0,bachelor's,1.0,158424.85359,working full time,male,other
+4043,45.0,14.0,associate/junior college,0.0,13451.25,working full time,female,other
+4045,34.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+4046,53.0,20.0,graduate,1.0,158424.85359,working full time,female,other
+4047,49.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+4048,48.0,16.0,bachelor's,1.0,158424.85359,working full time,female,other
+4050,60.0,17.0,graduate,1.0,101280.0,working part time,female,other
+4051,46.0,16.0,bachelor's,1.0,75960.0,temporarily not at work,female,other
+4053,41.0,12.0,less than high school,0.0,42727.5,working part time,female,other
+4054,32.0,16.0,bachelor's,1.0,52222.5,working full time,female,other
+4057,45.0,12.0,high school,0.0,158424.85359,working full time,female,other
+4061,55.0,14.0,associate/junior college,0.0,28485.0,working full time,female,other
+4063,28.0,17.0,graduate,1.0,88620.0,working full time,female,other
+4064,42.0,19.0,graduate,1.0,63300.0,working part time,female,other
+4065,50.0,20.0,bachelor's,1.0,34815.0,working full time,female,other
+4066,55.0,12.0,high school,0.0,17407.5,working part time,female,other
+4067,37.0,15.0,high school,0.0,158424.85359,working full time,female,other
+4072,59.0,18.0,graduate,1.0,158424.85359,working full time,female,other
+4074,55.0,12.0,graduate,1.0,75960.0,working full time,female,other
+4075,32.0,12.0,high school,0.0,88620.0,working full time,female,other
+4077,56.0,20.0,graduate,1.0,158424.85359,working full time,female,other
+4078,58.0,17.0,bachelor's,1.0,,working part time,female,other
+4080,33.0,16.0,bachelor's,1.0,158424.85359,temporarily not at work,female,other
+4081,29.0,16.0,bachelor's,1.0,158424.85359,working full time,female,other
+4082,40.0,12.0,bachelor's,1.0,158424.85359,working full time,female,other
+4083,43.0,20.0,graduate,1.0,28485.0,working full time,female,other
+4084,33.0,16.0,graduate,1.0,158424.85359,working full time,male,other
+4085,57.0,12.0,high school,0.0,7121.25,working part time,female,white
+4086,32.0,17.0,graduate,1.0,158424.85359,working full time,female,other
+4087,26.0,16.0,bachelor's,1.0,75960.0,working full time,female,other
+4089,54.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+4090,45.0,14.0,high school,0.0,158424.85359,working full time,female,other
+4091,45.0,16.0,bachelor's,1.0,42727.5,working full time,female,other
+4095,37.0,17.0,graduate,1.0,75960.0,working full time,female,other
+4098,36.0,16.0,bachelor's,1.0,63300.0,working full time,female,other
+4099,32.0,14.0,high school,0.0,23737.5,working full time,male,other
+4103,35.0,20.0,graduate,1.0,75960.0,working full time,female,other
+4105,34.0,4.0,less than high school,0.0,1266.0,working part time,female,other
+4107,31.0,12.0,high school,0.0,63300.0,working full time,female,other
+4109,41.0,13.0,high school,0.0,42727.5,working part time,female,other
+4110,35.0,16.0,bachelor's,1.0,158424.85359,working full time,female,other
+4112,61.0,15.0,high school,0.0,28485.0,working full time,female,other
+4113,26.0,18.0,graduate,1.0,158424.85359,working full time,female,other
+4114,31.0,20.0,graduate,1.0,158424.85359,working full time,female,other
+4115,30.0,20.0,graduate,1.0,101280.0,working part time,female,other
+4118,60.0,14.0,high school,0.0,52222.5,working full time,female,other
+4120,54.0,16.0,graduate,1.0,158424.85359,working full time,female,other
+4122,42.0,17.0,bachelor's,1.0,88620.0,working full time,female,other
+4123,64.0,16.0,graduate,1.0,63300.0,working full time,female,other
+4126,46.0,14.0,associate/junior college,0.0,63300.0,working full time,female,other
+4130,33.0,16.0,graduate,1.0,75960.0,working full time,female,other
+4131,29.0,18.0,bachelor's,1.0,,working part time,female,other
+4139,35.0,20.0,graduate,1.0,88620.0,working full time,female,other
+4141,45.0,20.0,graduate,1.0,158424.85359,temporarily not at work,female,other
+4145,41.0,16.0,bachelor's,1.0,75960.0,working full time,male,other
+4147,28.0,13.0,high school,0.0,63300.0,working full time,female,other
+4148,36.0,16.0,bachelor's,1.0,23737.5,working full time,female,white
+4149,29.0,17.0,bachelor's,1.0,20572.5,working part time,female,other
+4150,48.0,16.0,graduate,1.0,158424.85359,working full time,female,other
